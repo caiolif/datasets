@@ -1,0 +1,1398 @@
+Local de aplicação	Regional	UC	Comunidade	Município
+Rural	Solimões	Resex Catuá-Ipixuna	São João do Catua	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São João do catua 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São João do catua	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São João do catua 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São João do catua	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Sofia 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Nossa Senhora Aparecida	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Nossa Senhora Aparecida 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Nossa Senhora de Nazaré 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Nossa Senhora de Nazaré 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São João Evangelista	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São João Evangelista	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São José Lago do catua	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São José Lago do catua 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	bela conquista Lago catua	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Bela Conquista	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Bela Conquista	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Bela conquista Lago catua 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Nossa Senhora de Fátima 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Nossa Senhora de Fatima	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Nossa de Fatima	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Lázaro do catua 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Lázaro do catua 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Lázaro do catua	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São  Lázaro	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Boia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Bóia 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Lázaro 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Lázaro 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Boia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Lázaro 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Lázaro do Catua	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Bóia 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Lázaro	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	santa Luzia do Bóia Lago do catua	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Bóia 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Bóia 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Bóia 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Sebastião do água Branca Lago do Ipixuna 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Sebastião do água Branca Lago do Ipixuna 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	divino espírito Santo 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	divino espírito Santo 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	divino espírito Santo 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Sebastião do água Branca 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Divino Espírito Santo	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Divino Espírito Santo 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	divino espírito Santo 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	divino espírito Santo 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Divino Espírito Santo	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Fé	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Divino Espírito Santo 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Divino Espírito Santo 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Caiambé/ Rua João dos Santos 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Caiambé /Rua João dos Santos 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Caiambé /Rua João dos Santos 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Caiambé /Rua João dos Santos 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Caiambé /São Sebastião 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Caiambé/Rua São Sebastião 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Nossa Senhora Aparecida	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Comunidade São João do Catua	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Lázaro	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luiza do Boia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Bóia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Bóia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Bóia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Bóia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Bóia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Bóia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Localidade Emanuel	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Boia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Bóia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Boia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Boia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Boia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Bóia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Bóia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Sebastião do Água Branca	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Sebastião do Água Branca	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Sebastião do Água Branca	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	DIvani Espírito Santo	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Divino Espírito Santo	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Divino Espírito Santo	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Divino Espírito Santo	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Divino Espírito Santo	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Divino Espírito Santo	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Divino Espírito Santo	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Divino Espírito Santo	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Sebastião do Água Branca	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Divino Espírito Santo	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Divino Espírito Santo	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Caiambé/ RUA JOÃO DOS SANTOS	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Caiambé/Rua João dos Santos	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Caiambé/São Sebastião	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Caiambé/São Sebastião	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São João do catuá	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São João do catuá	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São João do catuá 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Nossa senhora aparecida	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São João Evangelista	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São José	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São José 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Bela Conquista	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Bela Conquista	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Bela Conquista	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Bela Conquista 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Bela Conquista	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Bela Conquista 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Bela Conquista	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Nossa Senhora de Fatima	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Nossa Senhora de Fatima 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Nossa Senhora de Fatima	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Lázaro 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Lázaro 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Lázaro 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Lázaro	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia Do Boia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa  Luzia do Boia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Lázaro 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Boia 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Boia 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Boia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Boia lago do catuá 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Boia lago do catuá 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Luzia do Boia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São  Sebastião Do Água Branca 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Sebastião do Água  Branca 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Sebastião do Água Branca 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Sebastião do Água Branca 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Sebastião do Água Branca 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Divino Espirito Santo	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Divino Espirito Santo	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Divino Espirito Santo	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Fé	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Fé 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Igarapé do Ipixuna/ Divino Espirito Santo	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Divino Espirito Santo	Tefé
+Rural	Solimões		Caiambé/ João  dos Santos	Tefé
+Rural	Solimões		Caiambé/João dos Santos 	Tefé
+Rural	Solimões		Caiambé 	Tefé
+Rural	Solimões		Caiambé/João dos Santos	Tefé
+Rural	Solimões		Caiambé/São Sebastião 	Tefé
+Rural	Solimões		Caiambé/São Sebastião 	Tefé
+Rural	Solimões		Caiambé/São Sebastião 	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São João do catua	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São João Do Catua	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São  João Do Catua	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Santa Sofia	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Nossa Senhora Aparecida	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Nossa Senhora de Nazaré	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Nossa Senhora de Nazaré	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São João Evanjelista	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São José	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Bela Conquista	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Bela Conquista	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Nossa Senhora de Fátima	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Massa Senhora de Fátima	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Nossa Senhora de Fátima	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	Nossa Senhora de Fatima	Tefé
+Rural	Solimões	Resex Catuá-Ipixuna	São Lázaro	Tefé
+Rural	Juruá	Resex do Rio Gregório	Lago Grande	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Lago Grande	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Lago Grande	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Monte Alegre	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Monte Alegre 	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Morada Nova	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Puca	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Maravilha	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Maravilha 	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Santo Amaro 	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Santo Amaro	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Ubim	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Ubim	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Extrema 	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Extrema 	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	ATALAIA	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Atalaia	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	São José 	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	São José	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Floresta	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Floresta 	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Floresta 	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Deus é por Nós	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Primeiro de Junho	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Prainha	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Prainha	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Prainha	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Cuata	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Estirao	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Estiråo	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Lago Grande	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Santo Amaro	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Fortaleza	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Lago Grande	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Monte Alegre	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Monte Alegre	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Monte Alegre	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Futuro	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Futuro	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Futuro	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Futuro	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Maravilha	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Maravilha	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Maravilha	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Santo Amaro	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Santo Amaro	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Santo Amaro	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Extremo	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Ubim	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Ubim	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Ubim	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Extrema	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Extrema	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Atalaia	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Atalaia	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Atalaia	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	São João	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	São José	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	São José	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Floresta	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Muxila	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Muxila	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Muxila	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Bacuri	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Bacuri	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Bacuri	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Lago Grande	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Lago Grande	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Lago Grande	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	PRAINHA	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Prainha	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Localidade Recreio	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Prainha	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Estirao	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Estirao 	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Lago Grande	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Lago Grande	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Localidade Fortaleza	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Monte Alegre	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Monte Alegre	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Monte Alegre	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Monte Alegre	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Futuro	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Nova Morada	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Futuro	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Nova morada	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Nova Morada	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Puca	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Maravilha	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Maravilha	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Santo Amaro	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Santo Amaro	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Ubim	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Ubim	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Ubim	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Ubim	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Ubim	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Atalaia	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Localidade Santa Maria 	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	São João 	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	São José 	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	São José 	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Floresta	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Floresta	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Floresta	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Muchila	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Mochila 	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	São José 	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Muxila	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Bacuri 	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Bacuri	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Bacuri	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	1 Junho	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Muxila	Eirunepé
+Rural	Juruá	Resex do Rio Gregório	Extremo	Eirunepé
+Rural	Solimões	RDS Amanã	São Francisco do Cubuá	Maraã
+Rural	Solimões	RDS Amanã	São Francisco do cubuá	Maraã
+Rural	Solimões	RDS Amanã	São Francisco do Cubuá	Maraã
+Rural	Solimões	RDS Amanã	São Francisco do Cabuá	Maraã
+Rural	Solimões	RDS Amanã	São Francisco do Cubuá	Maraã
+Rural	Solimões	RDS Amanã	São Francisco do Cubuá	Maraã
+Rural	Solimões	RDS Amanã	São Francisco do catuá	Maraã
+Rural	Solimões	RDS Amanã	São Francisco	Maraã
+Rural	Solimões	RDS Amanã	Santa Izabel	Maraã
+Rural	Solimões	RDS Amanã	Santa Izabel	Maraã
+Rural	Solimões	RDS Amanã	Nova olinda	Maraã
+Rural	Solimões	RDS Amanã	Nova Olinda	Maraã
+Rural	Solimões	RDS Amanã	Nova Olinda	Maraã
+Rural	Solimões	RDS Amanã	Nova Olinda	Maraã
+Rural	Solimões	RDS Amanã	Nova Olinda	Maraã
+Rural	Solimões	RDS Amanã	Bom socorro	Maraã
+Rural	Solimões	RDS Amanã	Bom Socorro	Maraã
+Rural	Solimões	RDS Amanã	Ubim	Maraã
+Rural	Solimões	RDS Amanã	Ubim	Maraã
+Rural	Solimões	RDS Amanã	Acarazinho	Maraã
+Rural	Solimões	RDS Amanã	Acarazinho 	Maraã
+Rural	Solimões	RDS Amanã	Acarazinho	Maraã
+Rural	Solimões	RDS Amanã	Acarázinho	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caimbe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caimbé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambe	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caimbé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caiambé	Maraã
+Rural	Solimões		Vila de Caimbé	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Jutica	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambe	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambe	Maraã
+Rural	Solimões		Caiambe	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambe	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambe	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambe	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambe	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambe	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambe	Maraã
+Rural	Solimões		Caiambe	Maraã
+Rural	Solimões		Caiambe	Maraã
+Rural	Solimões		Caiambe	Maraã
+Rural	Solimões		Caiambe	Maraã
+Rural	Solimões		Caiambe	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Solimões		Caiambé	Maraã
+Rural	Juruá	RDS de Uacari	Xibauazinho	Carauari
+Rural	Juruá	RDS de Uacari	Xibauazinho	Carauari
+Rural	Juruá	RDS de Uacari	Xibauazinho	Carauari
+Rural	Juruá	RDS de Uacari	Xibauazinho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Medeiros 	Carauari
+Rural	Juruá	RDS de Uacari	Xibauazinho	Carauari
+Rural	Juruá	RDS de Uacari	Xibauá	Carauari
+Rural	Juruá	RDS de Uacari	Xibauá	Carauari
+Rural	Juruá	RDS de Uacari	Xibauá	Carauari
+Rural	Juruá	RDS de Uacari	Xibauá	Carauari
+Rural	Juruá	RDS de Uacari	Cachoeira	Carauari
+Rural	Juruá	RDS de Uacari	Toarí	Carauari
+Rural	Juruá	RDS de Uacari	Toarí	Carauari
+Rural	Juruá	RDS de Uacari	Toarí	Carauari
+Rural	Juruá	RDS de Uacari	Toarí	Carauari
+Rural	Juruá	RDS de Uacari	Monte Carmelo	Carauari
+Rural	Juruá	RDS de Uacari	São Francisco	Carauari
+Rural	Juruá	RDS de Uacari	São Francisco 	Carauari
+Rural	Juruá	RDS de Uacari	Boa Vista	Carauari
+Rural	Juruá	RDS de Uacari	Sororoca	Carauari
+Rural	Juruá	RDS de Uacari	Sororoca	Carauari
+Rural	Juruá	RDS de Uacari	Sororoca	Carauari
+Rural	Juruá	RDS de Uacari	Sororoca	Carauari
+Rural	Juruá	RDS de Uacari	São Pedro 	Carauari
+Rural	Juruá	RDS de Uacari	São Pedro	Carauari
+Rural	Juruá	RDS de Uacari	São José 	Carauari
+Rural	Juruá	RDS de Uacari	São José	Carauari
+Rural	Juruá	RDS de Uacari	São José 	Carauari
+Rural	Juruá	RDS de Uacari	São José 	Carauari
+Rural	Juruá	RDS de Uacari	São José 	Carauari
+Rural	Juruá	RDS de Uacari	São José 	Carauari
+Rural	Juruá	RDS de Uacari	Monte Carmelo	Carauari
+Rural	Juruá	RDS de Uacari	Monte Carmelo	Carauari
+Rural	Juruá	RDS de Uacari	Monte Carmelo	Carauari
+Rural	Juruá	RDS de Uacari	Monte Carmelo	Carauari
+Rural	Juruá	RDS de Uacari	Boa Vista 	Carauari
+Rural	Juruá	RDS de Uacari	Boa Vista 	Carauari
+Rural	Juruá	RDS de Uacari	Boa Vista	Carauari
+Rural	Juruá	RDS de Uacari	Boa Vista 	Carauari
+Rural	Juruá	RDS de Uacari	Caroçal	Carauari
+Rural	Juruá	RDS de Uacari	Caroçal 	Carauari
+Rural	Juruá	RDS de Uacari	Praia do Campina	Carauari
+Rural	Juruá	RDS de Uacari	Samaumeira	Carauari
+Rural	Juruá	RDS de Uacari	Samaumeira	Carauari
+Rural	Juruá	RDS de Uacari	Morro Alto	Carauari
+Rural	Juruá	RDS de Uacari	Morro Alto	Carauari
+Rural	Juruá	RDS de Uacari	Morro Alto	Carauari
+Rural	Juruá	RDS de Uacari	Morro Alto	Carauari
+Rural	Juruá	RDS de Uacari	Morro Alto	Carauari
+Rural	Juruá	RDS de Uacari	Porto Said	Carauari
+Rural	Juruá	RDS de Uacari	Lago do Pupunha 	Carauari
+Rural	Juruá	RDS de Uacari	Lago do Pupunha 	Carauari
+Rural	Juruá	RDS de Uacari	Lago do Pupunha 	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro 	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro 	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro 	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Liberdade	Carauari
+Rural	Juruá	RDS de Uacari	Ouro Preto	Carauari
+Rural	Juruá	RDS de Uacari	Ouro Preto	Carauari
+Rural	Juruá	RDS de Uacari	Ouro preto	Carauari
+Rural	Juruá	RDS de Uacari	Ouro Preto	Carauari
+Rural	Juruá	RDS de Uacari	Ouro Preto	Carauari
+Rural	Juruá	RDS de Uacari	Morada Nova	Carauari
+Rural	Juruá	RDS de Uacari	Morada Nova	Carauari
+Rural	Juruá	RDS de Uacari	Morada Nova	Carauari
+Rural	Juruá	RDS de Uacari	Santo Antônio do Brito	Carauari
+Rural	Juruá	RDS de Uacari	Santo Antônio do Brito	Carauari
+Rural	Juruá	RDS de Uacari	Santo Antônio do Brito 	Carauari
+Rural	Juruá	RDS de Uacari	Santo Antônio do Brito	Carauari
+Rural	Juruá	RDS de Uacari	Santo Antônio do Brito	Carauari
+Rural	Juruá	RDS de Uacari	Santo Antônio do Brito	Carauari
+Rural	Juruá	RDS de Uacari	Santo Antônio do Brito	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Boa Vista do Tó	Carauari
+Rural	Juruá	RDS de Uacari	Manariã 	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo 	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo 	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo 	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	Canta Galo	Carauari
+Rural	Juruá	RDS de Uacari	Barreira do Idó	Carauari
+Rural	Juruá	RDS de Uacari	Barreira do Idó	Carauari
+Rural	Juruá	RDS de Uacari	Barreira do Idó	Carauari
+Rural	Juruá	RDS de Uacari	Nova União 	Carauari
+Rural	Juruá	RDS de Uacari	Nova União 	Carauari
+Rural	Juruá	RDS de Uacari	Nova União 	Carauari
+Rural	Juruá	RDS de Uacari	Nova União 	Carauari
+Rural	Juruá	RDS de Uacari	Nova União 	Carauari
+Rural	Juruá	RDS de Uacari	Idó	Carauari
+Rural	Juruá	RDS de Uacari	Bauana	Carauari
+Rural	Juruá	RDS de Uacari	Bauana	Carauari
+Rural	Juruá	RDS de Uacari	Barreira do Idó	Carauari
+Rural	Juruá	RDS de Uacari	Bauana	Carauari
+Rural	Juruá	RDS de Uacari	Bauana	Carauari
+Rural	Juruá	RDS de Uacari	Bauana	Carauari
+Rural	Juruá	RDS de Uacari	Bauana	Carauari
+Rural	Juruá	RDS de Uacari	Bauana	Carauari
+Rural	Juruá	RDS de Uacari	Estirão São José	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz 	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz 	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz 	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz 	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz 	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz 	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz 	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz 	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz 	Carauari
+Rural	Juruá	RDS de Uacari	Boca do Preguiça	Carauari
+Rural	Juruá	RDS de Uacari	Monte Cristo	Carauari
+Rural	Juruá	RDS de Uacari	Monte Cristo	Carauari
+Rural	Juruá	RDS de Uacari	Boca do Sacado do Jiburì	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança 	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança 	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança 	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança 	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança  	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança 	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança 	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança 	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança 	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança 	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança 	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança 	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança 	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança 	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança 	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança 	Carauari
+Rural	Juruá	RDS de Uacari	Novo Horizonte 	Carauari
+Rural	Juruá	RDS de Uacari	Novo Horizonte 	Carauari
+Rural	Juruá	RDS de Uacari	Novo Horizonte	Carauari
+Rural	Juruá	RDS de Uacari	Novo Horizonte 	Carauari
+Rural	Juruá	RDS de Uacari	Novo Horizonte 	Carauari
+Rural	Juruá	RDS de Uacari	Novo Horizonte 	Carauari
+Rural	Juruá	RDS de Uacari	Novo Horizonte 	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Providência 	Carauari
+Rural	Juruá	RDS de Uacari	Providência 	Carauari
+Rural	Juruá	RDS de Uacari	Goiabal	Carauari
+Rural	Juruá	RDS de Uacari	Ilha das Flores	Carauari
+Rural	Juruá	RDS de Uacari	Ilha das Flores	Carauari
+Rural	Juruá	RDS de Uacari	Ilha das Flores	Carauari
+Rural	Juruá	RDS de Uacari	Ilha das Flores	Carauari
+Rural	Juruá	RDS de Uacari	Ilha das Flores	Carauari
+Rural	Juruá	RDS de Uacari	Cachoeira	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Xibauazinho	Carauari
+Rural	Juruá	RDS de Uacari	Xibauazinho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Medeiros	Carauari
+Rural	Juruá	RDS de Uacari	Xibauazinho	Carauari
+Rural	Juruá	RDS de Uacari	Xibauá	Carauari
+Rural	Juruá	RDS de Uacari	Xibauá 	Carauari
+Rural	Juruá	RDS de Uacari	Toarí	Carauari
+Rural	Juruá	RDS de Uacari	Cachoeira	Carauari
+Rural	Juruá	RDS de Uacari	Cachoeira	Carauari
+Rural	Juruá	RDS de Uacari	Cachoeira 	Carauari
+Rural	Juruá	RDS de Uacari	Cachoeira 	Carauari
+Rural	Juruá	RDS de Uacari	Toarí	Carauari
+Rural	Juruá	RDS de Uacari	Toarí	Carauari
+Rural	Juruá	RDS de Uacari	São Francisco	Carauari
+Rural	Juruá	RDS de Uacari	São Francisco 	Carauari
+Rural	Juruá	RDS de Uacari	Sororoca	Carauari
+Rural	Juruá	RDS de Uacari	Sororoca 	Carauari
+Rural	Juruá	RDS de Uacari	Monte Carmelo	Carauari
+Rural	Juruá	RDS de Uacari	São José	Carauari
+Rural	Juruá	RDS de Uacari	São José	Carauari
+Rural	Juruá	RDS de Uacari	São José 	Carauari
+Rural	Juruá	RDS de Uacari	Monte Carmelo	Carauari
+Rural	Juruá	RDS de Uacari	Monte Carmelo	Carauari
+Rural	Juruá	RDS de Uacari	Monte Carmelo	Carauari
+Rural	Juruá	RDS de Uacari	Monte Carmelo	Carauari
+Rural	Juruá	RDS de Uacari	Monte Carmelo	Carauari
+Rural	Juruá	RDS de Uacari	Monte Carmelo	Carauari
+Rural	Juruá	RDS de Uacari	Boa Vista	Carauari
+Rural	Juruá	RDS de Uacari	Boa Vista	Carauari
+Rural	Juruá	RDS de Uacari	Boa Vista	Carauari
+Rural	Juruá	RDS de Uacari	Boa Vista	Carauari
+Rural	Juruá	RDS de Uacari	Boa Vista	Carauari
+Rural	Juruá	RDS de Uacari	Caroçal	Carauari
+Rural	Juruá	RDS de Uacari	Caroçal	Carauari
+Rural	Juruá	RDS de Uacari	Praia do Campina 	Carauari
+Rural	Juruá	RDS de Uacari	Samaumeira	Carauari
+Rural	Juruá	RDS de Uacari	Morro alto	Carauari
+Rural	Juruá	RDS de Uacari	Morro alto	Carauari
+Rural	Juruá	RDS de Uacari	Morro alto	Carauari
+Rural	Juruá	RDS de Uacari	Morro alto	Carauari
+Rural	Juruá	RDS de Uacari	Morro alto	Carauari
+Rural	Juruá	RDS de Uacari	Porto Said	Carauari
+Rural	Juruá	RDS de Uacari	Porto Said	Carauari
+Rural	Juruá	RDS de Uacari	Porto Said	Carauari
+Rural	Juruá	RDS de Uacari	Lago do Pupunha	Carauari
+Rural	Juruá	RDS de Uacari	Lago do Pupunha	Carauari
+Rural	Juruá	RDS de Uacari	Lago do Pupunha 	Carauari
+Rural	Juruá	RDS de Uacari	Lago do Pupunha	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro	Carauari
+Rural	Juruá	RDS de Uacari	Tabuleiro 	Carauari
+Rural	Juruá	RDS de Uacari	Ouro Preto	Carauari
+Rural	Juruá	RDS de Uacari	Ouro Preto	Carauari
+Rural	Juruá	RDS de Uacari	Ouro Preto	Carauari
+Rural	Juruá	RDS de Uacari	Ouro Preto	Carauari
+Rural	Juruá	RDS de Uacari	Ouro Preto	Carauari
+Rural	Juruá	RDS de Uacari	Ouro Preto	Carauari
+Rural	Juruá	RDS de Uacari	Morada Nova	Carauari
+Rural	Juruá	RDS de Uacari	Morada Nova	Carauari
+Rural	Juruá	RDS de Uacari	Morada Nova	Carauari
+Rural	Juruá	RDS de Uacari	Santo Antônio do Brito	Carauari
+Rural	Juruá	RDS de Uacari	Santo Antônio do Brito	Carauari
+Rural	Juruá	RDS de Uacari	Santo Antônio do Brito	Carauari
+Rural	Juruá	RDS de Uacari	Santo Antônio do Brito	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho	Carauari
+Rural	Juruá	RDS de Uacari	Boa Vista do Tó	Carauari
+Rural	Juruá	RDS de Uacari	Boa Vista do Tó	Carauari
+Rural	Juruá	RDS de Uacari	Canta Galo	Carauari
+Rural	Juruá	RDS de Uacari	Canta Galo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo 	Carauari
+Rural	Juruá	RDS de Uacari	Vila Ramalho 	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	São Raimundo	Carauari
+Rural	Juruá	RDS de Uacari	Mari mari	Carauari
+Rural	Juruá	RDS de Uacari	Barreira do idó	Carauari
+Rural	Juruá	RDS de Uacari	Barreira do idó	Carauari
+Rural	Juruá	RDS de Uacari	Barreira do idó	Carauari
+Rural	Juruá	RDS de Uacari	Nova união 	Carauari
+Rural	Juruá	RDS de Uacari	Nova união 	Carauari
+Rural	Juruá	RDS de Uacari	Nova união 	Carauari
+Rural	Juruá	RDS de Uacari	Nova união 	Carauari
+Rural	Juruá	RDS de Uacari	Nova união 	Carauari
+Rural	Juruá	RDS de Uacari	Idó	Carauari
+Rural	Juruá	RDS de Uacari	Idó	Carauari
+Rural	Juruá	RDS de Uacari	Idó	Carauari
+Rural	Juruá	RDS de Uacari	Bauana	Carauari
+Rural	Juruá	RDS de Uacari	Bauana	Carauari
+Rural	Juruá	RDS de Uacari	Bauana	Carauari
+Rural	Juruá	RDS de Uacari	Bauana 	Carauari
+Rural	Juruá	RDS de Uacari	Bauana 	Carauari
+Rural	Juruá	RDS de Uacari	Bauana 	Carauari
+Rural	Juruá	RDS de Uacari	Bauana	Carauari
+Rural	Juruá	RDS de Uacari	Bauana	Carauari
+Rural	Juruá	RDS de Uacari	Bauana	Carauari
+Rural	Juruá	RDS de Uacari	Bauana	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus 	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus 	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus 	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus 	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus 	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus 	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus 	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus 	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus 	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus 	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus 	Carauari
+Rural	Juruá	RDS de Uacari	Bom Jesus 	Carauari
+Rural	Juruá	RDS de Uacari	Vila do Igarapé Preto	Carauari
+Rural	Juruá	RDS de Uacari	Vila do Igarapé Preto	Carauari
+Rural	Juruá	RDS de Uacari	Vila do Igarapé Preto	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz	Carauari
+Rural	Juruá	RDS de Uacari	Imperatriz	Carauari
+Rural	Juruá	RDS de Uacari	Sacado do preguiça	Carauari
+Rural	Juruá	RDS de Uacari	Sacado do preguiça	Carauari
+Rural	Juruá	RDS de Uacari	Monte cristo	Carauari
+Rural	Juruá	RDS de Uacari	Monte cristo	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Roque	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Nova Esperança	Carauari
+Rural	Juruá	RDS de Uacari	Novo Horizonte	Carauari
+Rural	Juruá	RDS de Uacari	Novo Horizonte	Carauari
+Rural	Juruá	RDS de Uacari	Novo Horizonte	Carauari
+Rural	Juruá	RDS de Uacari	Novo Horizonte	Carauari
+Rural	Juruá	RDS de Uacari	Novo Horizonte	Carauari
+Rural	Juruá	RDS de Uacari	Novo Horizonte	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Pupuaí	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Gumo do Facão 	Carauari
+Rural	Juruá	RDS de Uacari	Providência 	Carauari
+Rural	Juruá	RDS de Uacari	Goiabal	Carauari
+Rural	Juruá	RDS de Uacari	Goiabal	Carauari
+Rural	Juruá	RDS de Uacari	Vila das flores	Carauari
+Rural	Juruá	RDS de Uacari	Vila das flores	Carauari
+Rural	Juruá	RDS de Uacari	Vila das flores	Carauari
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Urbano	Solimões			Maraã
+Rural	Juruá	RDS de Uacari	Xibauazinho	Carauari
+Rural	Juruá	RDS de Uacari	Xibauazinho 	Carauari
+Rural	Juruá	RDS de Uacari	Vila Medeiros 	Carauari
+Rural	Juruá	RDS de Uacari	Xibaúa	Carauari
+Rural	Juruá	RDS de Uacari	Xibaúa 	Carauari
+Rural	Juruá	RDS de Uacari	Xibaúa 	Carauari
+Rural	Juruá	RDS de Uacari	Cachoeira	Carauari
+Rural	Juruá	RDS de Uacari	Toarí	Carauari
+Rural	Juruá	RDS de Uacari	Toarí	Carauari
+Rural	Juruá	RDS de Uacari	Toarí	Carauari
+Rural	Juruá	RDS de Uacari	São Francisco 	Carauari
+Rural	Juruá	RDS de Uacari	São Francisco 	Carauari
+Rural	Negro-Amazonas		Flexal Família 2	Itapiranga
+Rural	Negro-Amazonas		Maracana Família 1	Itapiranga
+Rural	Negro-Amazonas	RDS do Uatumã	Maracarana Familia 2	Itapiranga
+Rural	Negro-Amazonas	RDS do Uatumã	Maracarana Família 3	Itapiranga
+Rural	Negro-Amazonas		Maracarana Família 4	Itapiranga
+Rural	Negro-Amazonas	RDS do Uatumã	Maracarana Família 5	Itapiranga
+Rural	Negro-Amazonas		Maracarana Família 6	Itapiranga
+Rural	Negro-Amazonas		Emanuel Família 1	Itapiranga
+Rural	Negro-Amazonas	RDS do Uatumã	Emanuel família 2	Itapiranga
+Rural	Negro-Amazonas		Emanuel família 3	Itapiranga
+Rural	Negro-Amazonas		Emanuel família 4	Itapiranga
+Rural	Negro-Amazonas		Santa Luzia família 1	Itapiranga
+Rural	Negro-Amazonas		Santa Luzia família 2	Itapiranga
+Rural	Negro-Amazonas		Santa Luzia família 3	Itapiranga
+Rural	Negro-Amazonas	RDS do Uatumã	Santa Luzia família 4	Itapiranga
+Rural	Negro-Amazonas		Santa Luzia família 5	Itapiranga
+Rural	Negro-Amazonas		São Francisco do Caribi família 1	Itapiranga
+Rural	Negro-Amazonas		Pedras família 1	Itapiranga
+Rural	Negro-Amazonas		Pedras família 2	Itapiranga
+Rural	Negro-Amazonas	RDS do Uatumã	Pedras família 3	Itapiranga
+Rural	Negro-Amazonas	RDS do Uatumã	Monte das Oliveiras Família 1 (ainda não são do Dicara. Mas querem participar).	Itapiranga
+Rural	Negro-Amazonas		Monte das Oliveira Família 2	Itapiranga
+Rural	Negro-Amazonas		Monte das Oliveira Família 3	Itapiranga
+Rural	Negro-Amazonas	RDS do Uatumã	Monte das Oliveira Família 4 	Itapiranga
+Rural	Negro-Amazonas	RDS do Uatumã	Monte das Oliveira Família 5	Itapiranga
+Rural	Negro-Amazonas		Monte das Oliveira  Família 6	Itapiranga
+Rural	Negro-Amazonas		São Francisco do Caribi  Família 1	Itapiranga
+Rural	Negro-Amazonas		São Francisco do Caribi  Família  2.	Itapiranga
+Rural	Negro-Amazonas		São Francisco do Caribi  Família 3.	Itapiranga
+Rural	Negro-Amazonas		São Francisco do Caribi  Família 4.	Itapiranga
+Rural	Negro-Amazonas		Cesaréia Família 1	Itapiranga
+Rural	Negro-Amazonas		Cesareia Família 2	Itapiranga
+Rural	Negro-Amazonas		Cesaréia Família 3	Itapiranga
+Rural	Negro-Amazonas		Cesaréia Família 4	Itapiranga
+Rural	Negro-Amazonas		Cesareia Família 5	Itapiranga
+Rural	Negro-Amazonas		Cesareia Família 6	Itapiranga
+Rural	Negro-Amazonas		Emanuel Família 5	Itapiranga
+Rural	Negro-Amazonas		Cesareia Família 7	Itapiranga
+Rural	Negro-Amazonas	RDS do Uatumã	Cesareia Família 8	Itapiranga
+Rural	Negro-Amazonas		Jacarequara Família 1	Itapiranga
+Rural	Negro-Amazonas		Jacarequara Família 2	Itapiranga
+Rural	Negro-Amazonas		Jacarequara Família 3	Itapiranga
+Rural	Negro-Amazonas		Jacarequara Família 4	Itapiranga
+Rural	Negro-Amazonas		Jacarequara Família 5	Itapiranga
+Rural	Negro-Amazonas		Jacarequara Família 6	Itapiranga
+Rural	Negro-Amazonas		Jacarequara Família 7	Itapiranga
+Rural	Negro-Amazonas		Jacarecuara Família 8	Itapiranga
+Rural	Negro-Amazonas		Jacarequara Família 9	Itapiranga
+Rural	Negro-Amazonas	RDS do Uatumã	Jacarequara Família 10	Itapiranga
+Rural	Negro-Amazonas	RDS do Uatumã	Cesareia Família 7	Itapiranga
+Rural	Negro-Amazonas	RDS do Uatumã	Cesareia Família 8	Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Iranduba
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Urbano	Negro-Amazonas			Itapiranga
+Rural	Madeira	RDS do Juma	Primor	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Primor	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Boa Vista 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Belas Águas 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	São Luiz	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Limão 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	São José Dos Brasões 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	São José dos Brasões 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Repartimento	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Terra Preta 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Terra Preta	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Nova jerusalém	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Nova Jerusalém	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Cristo Rei	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Alvorada 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	São João Do Arauá	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Alvorada 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Amorim	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Novo Olinda	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Novo Olinda	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Flechal	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Cipotuba	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Santa Maria	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Capintuba	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Capintuba	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Severino	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Primavera	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Boa Frente	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Boa Frente 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	São Félix 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	São Félix 	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	São Pedro	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	São Carlos	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Santa Maria	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Santa Maria 	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Livramento 	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Livramento 	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Vencedorzinho	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Santa Rosa 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Santo Antônio do Taciua	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Boa Frente	Novo Aripuanã
+				Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Livramento	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Amapazinho	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Boa Vista	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Boa Vista	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Belas Águas 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Santo Antônio	Novo Aripuanã
+Rural	Madeira		Terra Preta	Novo Aripuanã
+Rural	Madeira		São José dos Brasões	Novo Aripuanã
+Rural	Madeira	RDS do Juma	São José dos Brasões 	Novo Aripuanã
+Rural	Madeira		São José dos Brasões	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Abelha	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Abelha	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Abelha	Novo Aripuanã
+Rural	Madeira		Terra Preta	Novo Aripuanã
+Rural	Madeira		São José dos Brasões	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Nova Jerusalém 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Cacaia	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Alvorada	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Alvorada	Novo Aripuanã
+Rural	Madeira	RDS do Juma	São João do Arauá	Novo Aripuanã
+Rural	Madeira	RDS do Juma	São João do Arauá	Novo Aripuanã
+Rural	Madeira	RDS do Juma	São João do Arauá	Novo Aripuanã
+Rural	Madeira	RDS do Juma	São João do Arauá	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Amorim	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Amorim	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Amorim	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Santo Antônio 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Santo Antônio 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Cipotuba	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Santa Maria	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Capintuba	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Primavera	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Primavera	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Primavera	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Primavera	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Boa Frente	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Boa Frente	Novo Aripuanã
+Rural	Madeira	RDS do Juma	São Félix	Novo Aripuanã
+Rural	Madeira	RDS do Juma	São Félix	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	São Pedro 	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Santa Maria 	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Santa Maria 	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Santa Maria 	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Santa Maria 	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Livramento	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Livramento	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Livramento	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Livramento	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Santa Rosa 1	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Santa Rosa 1	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Santa Rosa 1	Novo Aripuanã
+Rural	Madeira		São José dos Brasões	Novo Aripuanã
+Rural	Madeira		Santo Antônio	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Amorim 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Amorim	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Amorim	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Santo Antônio do Taciua	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Santo Antônio do Taciua	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Santo Antônio do Taciua	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Santa Maria 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Capintuba	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Capintuba 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Severino 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Boa Frente 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Boa Frente 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Boa Frente 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	São Francisco 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	São Francisco 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	São Francisco 	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	São Pedro 	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Santa Maria	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Santa Maria 	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Santa Maria 	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Livramento 	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Livramento	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Livramento 	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Livramento 	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Livramento 	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Livramento 	Novo Aripuanã
+Rural	Madeira	RDS do Rio Madeira	Livramento	Novo Aripuanã
+Rural	Madeira		Primor	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Familia individual	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Amapa	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Boa vista	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Belas Águas 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Santo Antônio 	Novo Aripuanã
+Rural	Madeira		Limão	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Cacaia	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Repartimento	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Repartimento	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Repartimento	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Repartimento 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Repartimento 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Repartimento 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Repartimento	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Familia Individual 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Nova Jerusalém 	Novo Aripuanã
+Rural	Madeira		Nova Jerusalém	Novo Aripuanã
+Rural	Madeira		Nova Jerusalém	Novo Aripuanã
+Rural	Madeira		Nova Jerusalém	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Nova Jerusalém 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Repartimento 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	São José dos Brasões 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Cristo Rei 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Cristo Rei	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Cristo Rei	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Alvorada	Novo Aripuanã
+Rural	Madeira	RDS do Juma	São João do Arauá 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Alvorada 1 	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Alvorada 1	Novo Aripuanã
+Rural	Madeira	RDS do Juma	Alvorada 1	Novo Aripuanã
