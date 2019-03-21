@@ -1,14 +1,16 @@
-Remover Cód. da família
+Remover CÃ³d. da famÃ­lia
 
-Filhos (crianças/adol.) morando na cidade
-	 - valor numérico
+Filhos (crianÃ§as/adol.) morando na cidade
+	 - valor numÃ©rico
 
-Formas de renda da família. Adicionar:
+Formas de renda da famÃ­lia. Adicionar:
 	- coleta (andiroba, coco, sementes...)
-	- comércio
+	- comÃ©rcio
 	- extrativismo
 	- nenhuma
 
-Remover 'qual outra religião'
+Remover 'qual outra religiÃ£o'
 
 OBS: 1163 - 1255
+
+https://rstudio.github.io/DT/004-i18n.html
