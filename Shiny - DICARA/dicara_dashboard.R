@@ -10,7 +10,6 @@ library(tidyr)
 header <- dashboardHeader(title = "DICARA")
 
 
-
 sidebar <- dashboardSidebar(
   sidebarMenu(
     menuItem('Ver base', tabName = 'bases', icon = icon('database')),
@@ -82,8 +81,8 @@ ui <- dashboardPage(header,
 
 
 server <- function(input, output) {
-  base1 <- read.table(text = getURL('https://raw.githubusercontent.com/caiolif/datasets/master/dados_aplicacaofamiliar.txt', .encoding = 'ISO-8859-1'),
-                      header = TRUE, blank.lines.skip = FALSE, sep = "\t")
+  base1 <- read.table(text = getURL('https://raw.githubusercontent.com/caiolif/datasets/master/dados_aplicacaofamiliar.txt', .encoding = 'UTF-8'),
+                      header = TRUE, sep = "\t")
   
   base2 <- read.table(text = getURL('https://raw.githubusercontent.com/caiolif/datasets/master/dados_grupofamiliar.txt', .encoding = 'Latin-1'),
                       header = TRUE, blank.lines.skip = FALSE, sep = "\t", quote = "")
@@ -105,7 +104,7 @@ server <- function(input, output) {
       ungroup() %>% 
       mutate(prop = round(n*100/sum(n), 0), y.breaks = cumsum(prop) - prop/2) %>% 
       ggplot(aes(x = Município, y = prop)) +
-      geom_bar(stat = 'identity', fill = 'orange') + 
+      geom_bar(stat = 'identity', fill = 'forestgreen') + 
       geom_text(aes(label = paste0(n)),
                 position = position_stack(vjust = 0.5)) +
       labs(x = '', y = 'Nº de entrevistados (%)') +
@@ -139,7 +138,7 @@ server <- function(input, output) {
       ungroup() %>%
       mutate(prop = round(n*100/sum(n), 0), y.breaks = cumsum(prop) - prop/2) %>% 
       ggplot(aes(x = UC, y = prop)) +
-      geom_bar(fill = 'orange', stat = 'identity') + 
+      geom_bar(fill = 'forestgreen', stat = 'identity') + 
       geom_text(aes(label = paste0(n)),
                 position = position_stack(vjust = 0.5), size = 4.5) +
       labs(x = "", y = "UC (%)") + 

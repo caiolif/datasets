@@ -3,8 +3,8 @@
 #-----------------------------------
 
 base1 <- read.table(text = getURL('https://raw.githubusercontent.com/caiolif/datasets/master/dados_aplicacaofamiliar.txt', 
-                                  .encoding = 'ISO-8859-1'),
-                    header = TRUE, blank.lines.skip = FALSE, sep = "\t")
+                                  .encoding = 'UTF-8'),
+                    header = TRUE, sep = "\t")
 
 
 
@@ -17,8 +17,8 @@ base1 %>%
   ungroup() %>% 
   mutate(prop = round(n*100/sum(n), 0), y.breaks = cumsum(prop) - prop/2) %>% 
   ggplot(aes(x = Município, y = prop)) +
-  geom_bar(stat = 'identity', fill = 'orange') + 
-  geom_text(aes(label = paste0('(', n, ')')),
+  geom_bar(stat = 'identity', fill = 'darkgreen') + 
+  geom_text(aes(label = paste0('(', n, ')')), colour = 'white',
             position = position_stack(vjust = 0.5)) +
   labs(x = '', y = 'Nº de entrevistados (%)') +
   theme_minimal(base_size = 14) 
@@ -34,9 +34,10 @@ base1 %>%
   mutate(prop = n*100/sum(n)) %>% 
   ggplot(aes(x = Município, y = prop, fill = Regional, group = Regional)) +
   geom_bar(stat = 'identity') +
-  scale_fill_d3() + 
+  scale_fill_d3(name = 'Região:') + 
   geom_text(aes(label = paste0(n)),
             position = position_stack(vjust = 0.5), size = 4.5) +
+  scale_y_discrete(limits = seq(0, 35, by = 5)) + 
   labs(y = 'Região (%)') + 
   theme_minimal(base_size = 14) + 
   theme(legend.position = 'top')
@@ -51,8 +52,8 @@ base1 %>%
   ungroup() %>%
   mutate(prop = round(n*100/sum(n), 0), y.breaks = cumsum(prop) - prop/2) %>% 
   ggplot(aes(x = UC, y = prop)) +
-  geom_bar(fill = 'orange', stat = 'identity') + 
-  geom_text(aes(label = paste0(n)),
+  geom_bar(fill = 'darkgreen', stat = 'identity') + 
+  geom_text(aes(label = paste0(n)), colour = 'white',
             position = position_stack(vjust = 0.5), size = 4.5) +
   labs(x = "", y = "UC (%)") + 
   theme_minimal(base_size = 14) +
