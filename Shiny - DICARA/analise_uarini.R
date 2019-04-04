@@ -372,18 +372,10 @@ base2 %>%
   ggplot(aes(x = groupage, y = prop)) +
   geom_bar(stat = 'identity')
 
-
-
-cmds <- NULL
-
-for(i in 1:nrow(base2)){
-  if(base2$X_parent_index[i] == base1$X_index[i])
-  cmds[i] <- 
-}
-
-base1 %>% 
-  filter(Município == 'Uarini') %>% 
-  select(X_index, Comunidade)
+data_frame(base2$X_parent_index, 
+           muni = base1$Município[base2$X_parent_index],
+           cindex = base1$Comunidade[base2$X_parent_index]) %>% 
+  filter(muni == 'Uarini')
 
 
 
