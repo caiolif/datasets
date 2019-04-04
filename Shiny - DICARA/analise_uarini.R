@@ -7,13 +7,13 @@ base1 %>%
   filter(Município == 'Uarini') %>% 
   count(Comunidade) %>% 
   mutate(prop = n*100/sum(n)) %>% 
-  ggplot(aes(x = Comunidade, y = prop)) +
+  ggplot(aes(x = reorder(Comunidade, n), y = prop)) +
   geom_bar(stat = 'identity', fill = 'forestgreen') + 
   coord_flip() +
   geom_text(aes(label = paste0(n)), colour = 'white',
             position = position_stack(vjust = 0.5),
             size = 4.5) +
-  labs(y = 'Proporção (%)') +
+  labs(x = 'Comunidade', y = '(Nº de famílias entrevistadas) %') +
   scale_y_discrete(limits = seq(0, 18, 3)) +
   theme_minimal(base_size = 13)
 
@@ -29,14 +29,14 @@ base1 %>%
   count() %>% 
   ggplot(aes(x = Nº.de.moradores.na.casa..mesma.família., y = n)) +
   geom_point(colour = 'forestgreen') + 
-  geom_line(colour = 'forestgreen') +
-  labs(x = 'Nº de moradores na mesma casa', y = 'Contagem') +
+  geom_line(colour = 'forestgreen', size = 1) +
+  labs(x = 'Nº de familiares na casa', y = 'Frequência') +
   scale_x_discrete(limits = seq(2, 18, 2)) +
   scale_y_discrete(limits = seq(0, 45, 5)) +
-  theme_minimal(base_size = 13)
-  
+  theme_minimal(base_size = 13) 
+
 #-------------------------
-# Nº de pessoas na família
+# crianças/adol na cidade
 #-------------------------
 base1 %>% 
   as_data_frame() %>% 
@@ -44,11 +44,11 @@ base1 %>%
   select(Comunidade, Filhos..crianças.adolescentes..morando.na.cidade.) %>% 
   group_by(Comunidade) %>% 
   count(Filhos..crianças.adolescentes..morando.na.cidade.) %>% 
-  mutate(prop = n*100/sum(n)) %>% 
+  mutate(prop = n*100/sum(n)) %>%
   ggplot(aes(x = Comunidade, y = prop, fill = Filhos..crianças.adolescentes..morando.na.cidade.)) +
   geom_bar(stat = 'identity') +
   coord_flip() + 
-  labs(y = '%') +
+  labs(y = '(Nº de famílias) %') +
   geom_text(aes(label = paste0(n)), 
             position = position_stack(vjust = 0.5)) +
   scale_fill_brewer(palette = 'Greens', 
@@ -73,7 +73,6 @@ base1 %>%
 #---------------------------
 # Forma de renda
 #---------------------------
-library(reshape2)
 
 base1 %>% 
   as_data_frame() %>% 
@@ -176,17 +175,15 @@ base1 %>%
   as_data_frame() %>% 
   filter(Município == 'Uarini') %>% 
   select(Religião.da.família) %>% 
-  melt() %>% 
-  group_by(variable) %>% 
-  filter(value == 1) %>% 
-  count(value) %>% 
-  mutate(prop = n*100/212) %>% 
-  ggplot(aes(x = variable, y = prop)) +
+  group_by(Religião.da.família) %>% 
+  count() %>%  
+  mutate(prop = n*100/sum(n)) %>% 
+  ggplot(aes(x = Religião.da.família, y = n)) +
   geom_bar(stat = 'identity', fill = 'forestgreen') +
   geom_text(aes(label = paste0(n)), color = 'white',
             position = position_stack(vjust = 0.5), size = 5) +
-  labs(x = 'Tipo de Benefício', y = 'Frequência (%)') +
-  scale_x_discrete(labels = c('Bolsa Família', 'Bolsa Floresta', 'Aposentadoria')) +
+  labs(x = 'Religião da Família', y = 'Frequência (%)') +
+  scale_x_discrete(labels = c('Apenas crê em Deus', 'Católica', 'Evangélica')) +
   theme_minimal(base_size = 14)
 
 

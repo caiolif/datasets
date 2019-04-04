@@ -6,6 +6,9 @@ library(RCurl)
 library(dplyr)
 library(ggsci)
 library(tidyr)
+library(RColorBrewer)
+library(reshape2)
+
 
 header <- dashboardHeader(title = "DICARA")
 
@@ -165,7 +168,6 @@ server <- function(input, output) {
   output$plot_nmoradores <- renderPlot(
     base1 %>% as_data_frame() %>% 
       select('Município', 'No..de.moradores.na.casa..mesma.família.') %>% 
-      filter(No..de.moradores.na.casa..mesma.família. != 196) %>% 
       group_by(Município) %>% 
       count(No..de.moradores.na.casa..mesma.família.) %>% 
       ggplot(aes(x = No..de.moradores.na.casa..mesma.família., y = n, color = Município)) +
