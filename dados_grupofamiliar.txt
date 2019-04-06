@@ -6,8 +6,6 @@ Poliana Medeiros Lopes	Filho		Feminino	2016-08-09	1	Não		Não estudou		Nunca	Nu
 Glenda Vitória Medeiros Lopes	Filho		Feminino	2014-09-18	3	Sim		Pré-escolar	0	Sim	Nunca	Não	Não	Não	Não	Não	Sim	Não	Não	Não							Sim	Não	Não	Não	Não	Não	Não	Não				Não		Nenhum	Não																	5	1
 Bruna Naiandra Medeiros Lopes	Filho		Feminino	2018-03-25	0	Não		Não estudou			Nunca	Não	Não	Não	Não	Não	Não	Não	Não								Sim	Não	Não	Não	Não	Não	Não	Não				Não		Nenhum	Não																	6	1
 Raiandra Medeiros Lopes	Filho		Feminino	2009-11-21	8	Sim		Ensino Fundamental Incompleto		Sim	Nunca	Não	Não	Não	Não	Não	Sim	Não	Sim	Não							Sim	Não	Não	Sim	Não	Não	Não	Não				Não		Nenhum	Não																	7	1
-da	Chefe da família		Masculino	1991-06-09	27	Sim		Alfabetizado																			Sim	Sim	Sim	Sim	Sim	Sim	Sim	Sim				Sim		Os dois									não sabe	7								8	2
-ma	Cônjuge		Feminino	2005-04-09	13	Sim		Alfabetizado		Sim	Nunca	Sim	Sim	Sim	Sim	Sim	Sim	Sim	Sim	Sim							Sim	Sim	Sim	Sim	Não	Não	Não	Sim		Solteiro	Sim	Sim		Os dois	Não								não sabe	2	Informática	0	0	1	0	0	0	9	2
 raiele souza Araújo 	Cônjuge		Feminino	1993-08-22	24	Não		Ensino Médio Incompleto																			Sim	Não	Sim	Sim	Sim	Sim	Não					Sim		Bebidas alcóolicas										2								10	3
 edilam Macedo Lopes 	Chefe da família		Masculino	1981-07-29	36	Não		Ensino Fundamental Incompleto																			Sim	Não	Sim	Sim	Sim	Sim	Não					Sim		Nenhum										2								11	3
 Maria Paula Araújo Lopes 	Filho		Feminino	2012-02-10	6	Sim		Pré-escolar	0	Sim	Nunca	Não	Não	Não	Não	Não	Sim	Não	Sim	Não							Sim	Não	Não	Não	Não	Não	Não					Não		Nenhum	Não																	12	3
