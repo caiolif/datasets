@@ -2427,8 +2427,7 @@ Carauari		Daniana dos Santos	Cônjuge		Feminino			Sim		Alfabetizado													
 Carauari		Kemilly dos Santos Nascimento	Filho		Feminino			Não		Não estudou																			1				0	0	0	0				Não		Nenhum									2447	755
 Carauari		Leonardo Nascimento	Filho		Masculino			Sim		Alfabetizado																			1				0	0	0	0				Não		Nenhum									2448	755
 Carauari		Antônio São Bento Pontes	Chefe da família		Masculino	1980-01-15	31	Sim		Alfabetizado																			1		1	1	1	1	0	0				Não		Nenhum									2449	756
-Carauari		"Maria Lúcia Gomes dos santos
-"	Cônjuge		Feminino	1984-10-26	27	Não		Alfabetizado																			1	0	1	1	1	1	0	0				Sim		Cigarro									2451	758
+Carauari		Maria Lúcia Gomes dos santos	Cônjuge		Feminino	1984-10-26	27	Não		Alfabetizado																			1	0	1	1	1	1	0	0				Sim		Cigarro									2451	758
 Carauari		Marcos Antônio dos santos calixto	Filho		Masculino	2001-04-05	10	Sim		Alfabetizado		Sim	Nunca	1	1	1						0							1	0	1	1	0	0	0	0		Solteiro		Não		Nenhum	Sim	Música	1	0	0	0	0	0	2452	758
 Carauari		Maria sebastiana calixto	Filho		Feminino	2003-01-20	8	Sim		Ensino Médio Incompleto		Sim	Nunca	1	0	0	1	0	1	0	1	0							1	0	0	1	0	0	0	0				Não		Nenhum	Sim	Música	1	0	0	0	0	0	2453	758
 Carauari		Antônia raimunda dossantos calixto	Filho		Feminino	2004-11-19	7	Sim		Alfabetizado		Sim	2 vezes	1	0	0	1	0	1	0	1	0							1	0	0	1	0	0	0	0				Não		Nenhum	Sim	Música	1	0	0	0	0	0	2454	758
