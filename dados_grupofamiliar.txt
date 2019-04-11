@@ -442,9 +442,6 @@ Tefé		Francimar Braga da Costa	Chefe da família		Masculino	1975-04-25	43	Não	
 Tefé		Alzerina Lopes Sobrinho	Cônjuge		Feminino	1981-08-13	36	Não		Ensino Fundamental Incompleto																			1	1	1	1	1	1	1	0				Sim		Nenhum									444	96
 Tefé		Maria Antônia Sobrinho da Costa	Filho		Feminino	2006-07-12	11	Sim		Ensino Fundamental Incompleto		Sim	1 vez	0	0	0	0	0	1	0	0	0							1	0	0	1	0	0	0	0		Solteiro	Não	Não		Nenhum	Não								445	96
 Tefé		Antônia Maria Sobrinho da Costa	Filho		Feminino	2006-07-12	11	Sim		Ensino Fundamental Incompleto		Sim	1 vez	0	0	0	0		1	0	0	0							1	0	0	1	0	0	0	0		Solteiro	Não	Não		Nenhum	Não								446	96
-Tefé		O mesmo	Chefe da família		Masculino	1996-06-14	21	Sim		Alfabetizado																			1	1	1	1	1	1	0	0				Sim		Bebidas alcóolicas		Outros	0	0	0	0	0	1	447	97
-Tefé		Maria	Cônjuge		Feminino	1998-04-07	20	Sim		Alfabetizado																			1	1	1	1	1	1	1	1				Sim		Nenhum		Outros	0	0	0	0	0	1	448	97
-Tefé		Carla	Filho		Feminino	2003-06-25	14	Sim		Reescrevendo o Futuro		Sim	Nunca	1	1	1	1	1	1	1	1	1							1	1	1	1	1	1	0	0		Namorando	Sim	Sim		Os dois	Não	Educação Ambiental	0	0	0	1	0	0	449	97
 Tefé		Rafaela Vasconcelos de oliveira	Cônjuge		Feminino	1989-09-07	28	Não		Ensino Fundamental Completo																			1	0	1	1	1	1	0	0				Sim		Nenhum									450	98
 Tefé		Evandro Macedo lopes	Chefe da família		Masculino	1985-04-11	33	Não		Ensino Fundamental Incompleto																			1	0	1	1	1	1	0	0				Sim		Bebidas alcóolicas									451	98
 Tefé		Érica Cristina de oliveira lopes	Filho		Feminino	2006-06-15	11	Sim		Ensino Fundamental Incompleto		Sim	Nunca	1			1		1		1	0							1	0	0	1	0	0	0	0		Solteiro	Não	Não		Nenhum	Não								452	98
@@ -4582,406 +4579,406 @@ Uarini		Iago renan torres dos santos	Filho		Masculino	2012-01-11	7	Sim		Ensino F
 Uarini		Davila torres dos santos	Filho		Feminino	2016-05-26	2	Não	Não está na idade	Não estudou		Nunca	Nunca	0	0	0	0	0	0	0	0	0	Não						1	0	0	0	0	0	0					Não		Nenhum	Não								4610	1624
 Uarini		Ana clara dos santos pereira	Filho		Feminino	2010-02-03	9	Sim		Ensino Fundamental Incompleto	3	Sim	Nunca	0	0	0	0	0	1	0	0	0	Não						1	0	0	1	0	0	0					Não		Nenhum	Não								4611	1625
 Uarini		Valce de souza soriano	Filho		Masculino	2004-10-07	14	Sim		Ensino Fundamental Incompleto	6	Sim	Nunca	0	0	0	0	0	0	0	0	0	Não						1	0	0	0	1	0	1	0		Solteiro		Não		Nenhum	Não								4612	1626
-Itapiranga		Francisco Pereira da Costa	Cônjuge		Masculino		35			Ensino Médio Incompleto	Não																																									1627
-Itapiranga		Francineide Ferreira Costa	Filho(a)		Feminino		17			Ensino Médio Incompleto	Não																												Não	Não												1627
-Itapiranga		Franciele Ferreira da Costa	Filho(a)		Feminino		13			Ensino Médio Completo	Não																												Não	Não												1627
-Itapiranga		Lucas Rodrigo Ferreira da Costa	Filho(a)		Masculino		11			Ensino Médio Incompleto	Não																																									1627
-Itapiranga		Rikelmy Ferreira da Costa	Filho(a)		Masculino		9			Ensino Fundamental Incompleto	Não																																									1627
-Itapiranga		Ana Rute Ferreira da Costa	Filho(a)		Feminino		6			Ensino Médio Incompleto	Não																																									1627
-Itapiranga		Valesca Mirela de Oliveira Vieira	Filho(a)		Feminino		13			Ensino Médio Incompleto	Não																												Não	Não												1628
-Itapiranga		Carlos Alexandre Lima da Silva	Filho(a)		Masculino		6			Ensino Médio Incompleto	Não																																									1628
-Itapiranga		Antônio Celio da Cruz Gomes 	Cônjuge		Masculino		30			Ensino Médio Incompleto	Não																																									1629
-Itapiranga		Amanda Patrícia Vieira Gomes 	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																									1629
-Itapiranga		Aluana Vieira Gomes 	Filho(a)		Feminino		6			Ensino Fundamental Incompleto	Não																																									1629
-Itapiranga		Sara Gomes 	Cônjuge		Feminino		25			Ensino Médio Incompleto	Não																																									1630
-Itapiranga		Marlene da Cruz Gomes 	Filho(a)		Feminino		16			Ensino Médio Incompleto	Não																												Não	Não												1630
-Itapiranga		Poliana de Oliveira Paz	Outro	Enteado	Feminino		3			Não alfabetizado	Não																																									1630
-Itapiranga		Renato Medeiros do Carmo	Cônjuge		Masculino		22			Ensino Fundamental Completo	Não																																									1631
-Itapiranga		Renato Felipe Gomes do Carmo	Filho(a)		Masculino		1			Não alfabetizado	Não																																									1631
-Itapiranga		Jeiciene Ferreira Gomes	Irmão(ã)		Feminino		15			Ensino Fundamental Incompleto	Não																												Não	Não												1631
-Itapiranga		Jeane Ferreira dos Santos 	Filho(a)		Feminino		31			Ensino Superior Incompleto	Não																																									1632
-Itapiranga		Ana Letícia Ferreira dos Santos 	Neto(a)		Feminino		12			Ensino Fundamental Incompleto	Não																												Não	Não												1632
-Itapiranga		Raimundo Claudinei dos Santos Gomes 	Outro	Genro	Masculino		35			Ensino Médio Completo	Não																																									1632
-Itapiranga		Maria Helena dos Santos Gomes 	Neto(a)		Feminino		10			Ensino Fundamental Incompleto	Não																												Não	Não												1632
-Itapiranga		Erika Thamila dos Santos Marques	Filho(a)		Feminino		13			Ensino Fundamental Incompleto	Não																												Não	Não												1633
-Itapiranga		Bianca do Carmo dos Santos	Filho(a)		Feminino		8			Ensino Fundamental Incompleto	Não																																									1633
-Itapiranga		Iure Renato dos Santos	Filho(a)		Masculino		4			Não alfabetizado	Não																																									1633
-Itapiranga		Joelson Batista da Silva	Cônjuge		Masculino		36			Ensino Fundamental Incompleto	Não																																									1634
-Itapiranga		Ana Paula Bernardes da Rosa	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																									1634
-Itapiranga		Tiago Batista Rodrigues 	Filho(a)		Masculino		17			Ensino Médio Incompleto	Não																																									1635
-Itapiranga		Davi Gomes da Silva	Cônjuge		Masculino		39			Ensino Fundamental Incompleto	Não																																									1636
-Itapiranga		Alcivan Rodrigues Lira	Filho(a)		Masculino		9			Ensino Fundamental Incompleto	Não																																									1636
-Itapiranga		Jhonatan Rodrigues Lira	Filho(a)		Masculino		8			Ensino Fundamental Incompleto	Não																																									1636
-Itapiranga		Larissa Rodrigues da Silva	Filho(a)		Feminino		5			Ensino Fundamental Incompleto	Não																																									1636
-Itapiranga		Davi Eduardo Rodrigues da Silva	Filho(a)		Masculino		4			Não alfabetizado	Não																																									1636
-Itapiranga		Sabrina Rodrigues da Silva	Filho(a)		Feminino		3			Não alfabetizado	Não																																									1636
-Itapiranga		Márcio Gomes de Souza	Cônjuge		Masculino		29			Ensino Fundamental Incompleto	Não																																									1637
-Itapiranga		Rangel Rodrigues de Souza	Filho(a)		Masculino		12			Ensino Fundamental Incompleto	Não																																									1637
-Itapiranga		Gean Rodrigues de Souza	Filho(a)		Masculino		9			Ensino Fundamental Incompleto	Não																																									1637
-Itapiranga		Vanessa Rodrigues de Souza	Filho(a)		Feminino		8			Ensino Fundamental Incompleto	Não																																									1637
-Itapiranga		Gabriel Rodrigues de Souza	Filho(a)		Feminino		7			Ensino Fundamental Incompleto	Não																																									1637
-Itapiranga		Gabriela Rodrigues de Souza	Filho(a)		Feminino		7			Ensino Fundamental Incompleto	Não																																									1637
-Itapiranga		Ketlen Rodrigues de Souza	Filho(a)		Feminino		5			Alfabetizado	Não																																									1637
-Itapiranga		Nayara Rodrigues de Souza	Filho(a)		Feminino		3			Alfabetizado	Não																																									1637
-Itapiranga		Taiane Rodrigues de Souza	Filho(a)		Feminino		1			Não alfabetizado	Não																																									1637
-Itapiranga		Alcimar Prado Lima	Cônjuge		Masculino		22			Ensino Fundamental Incompleto	Sim	Deficiência física: joelhos com lesões devido um acidente jogando bola.																																								1638
-Itapiranga		Suzana Consuelo Melquizoar Viana Santos	Filho(a)		Feminino		13			Ensino Fundamental Incompleto	Não																												Não	Não												1638
-Itapiranga		Agnanda Consuelo Viana Rodrigues	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																									1638
-Itapiranga		Ana Consuelo dos Santos Lira	Filho(a)		Feminino		0			Não alfabetizado	Não																																									1638
-Itapiranga		Alcimir Prado Lira	Outro	Cunhado	Masculino		17			Ensino Médio Incompleto	Sim	Deficiência física: amputação da metade de um dedo devido um acidente em uma máquina de barco.																																								1638
-Itapiranga		Vilma Prado de Souza	Cônjuge		Feminino		37			Ensino Fundamental Incompleto	Não																																									1639
-Itapiranga		Varderly Souza Rodrigues	Filho(a)		Masculino		14			Ensino Fundamental Incompleto	Não																																									1639
-Itapiranga		Dayara Souza Rodrigues	Filho(a)		Feminino		12			Ensino Fundamental Incompleto	Não																												Não	Não												1639
-Itapiranga		Valdely Souza Rodrigues	Filho(a)		Masculino		9			Ensino Fundamental Incompleto	Não																																									1639
-Itapiranga		Rosilene da Costa Pereira	Cônjuge		Feminino		37			Ensino Fundamental Incompleto	Não																																									1640
-Itapiranga		Vinícius Pereira de Souza	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																									1640
-Itapiranga		Ricardo Pereira de Souza	Filho(a)		Masculino		9			Ensino Fundamental Incompleto	Não																																									1640
-Itapiranga		Raissa Pereira de Souza	Filho(a)		Feminino		5			Ensino Fundamental Incompleto	Não																																									1640
-Itapiranga		Ednei Pereira de Souza	Filho(a)		Masculino		4			Não alfabetizado	Não																																									1640
-Itapiranga		Maik Silva dos Santos 	Cônjuge		Masculino		30			Ensino Fundamental Incompleto	Não																																									1641
-Itapiranga		Mateus Souza dos Santos 	Filho(a)		Masculino		12			Ensino Fundamental Incompleto	Não																																									1641
-Itapiranga		Rafael Souza dos Santos 	Filho(a)		Masculino		10			Ensino Fundamental Incompleto	Não																																									1641
-Itapiranga		Gabriel Souza dos Santos 	Filho(a)		Masculino		8			Ensino Fundamental Incompleto	Não																																									1641
-Itapiranga		Edeildes Corrêa Pinto	Cônjuge		Masculino		44			Ensino Fundamental Incompleto	Não																																									1642
-Itapiranga		Ednildes de Souza Pinto	Filho(a)		Masculino		18			Ensino Médio Incompleto	Não																																									1642
-Itapiranga		Deilma de Souza Pinto	Filho(a)		Feminino		16			Ensino Fundamental Incompleto	Sim	Doença cronica: Leucemia porem está concluindo o tratamento																											Sim	Não												1642
-Itapiranga		Edenilton Souza Pinto	Filho(a)		Masculino		14			Ensino Fundamental Incompleto	Não																																									1642
-Itapiranga		Daiana Souza Pinto	Filho(a)		Feminino		11			Ensino Fundamental Incompleto	Não																												Não	Não												1642
-Itapiranga		Denilson de Souza Pinto	Filho(a)		Masculino		8			Ensino Fundamental Incompleto	Não																																									1642
-Itapiranga		Daiane de Souza Pinto	Filho(a)		Feminino		5			Não alfabetizado	Não																																									1642
-Itapiranga		Deane de Souza Pinto	Filho(a)		Feminino		1			Não alfabetizado	Não																																									1642
-Itapiranga		Evandro Ramos da Silva	Cônjuge		Masculino		47			Ensino Fundamental Incompleto	Não																																									1643
-Itapiranga		Júnior Ramos Vieira	Filho(a)		Masculino		21			Ensino Fundamental Incompleto	Não																																									1643
-Itapiranga		Josiane Ramos Vieira	Filho(a)		Feminino		20			Ensino Médio Incompleto	Não																																									1643
-Itapiranga		Vanderson Ramos Vieira	Filho(a)		Masculino		18			Ensino Médio Incompleto	Não																																									1643
-Itapiranga		Marciane Ramos Vieira	Filho(a)		Feminino		16			Ensino Médio Incompleto	Não																												Não	Não												1643
-Itapiranga		Jairo Oliveira da Silva	Cônjuge		Masculino		37			Ensino Fundamental Incompleto	Não																																									1644
-Itapiranga		Deisiane Borges da Silva	Filho(a)		Feminino		14			Ensino Fundamental Incompleto	Não																												Não	Não												1644
-Itapiranga		Jaiane Borges da Silva	Filho(a)		Feminino		10			Ensino Fundamental Incompleto	Não																												Não	Não												1644
-Itapiranga		Daiane Borges da Silva	Filho(a)		Feminino		8			Ensino Fundamental Incompleto	Não																																									1644
-Itapiranga		Jhonatas Borges da Silva	Filho(a)		Masculino		6			Não alfabetizado	Não																																									1644
-Itapiranga		Júlio César Borges da Silva	Filho(a)		Masculino		4			Não alfabetizado	Não																																									1644
-Itapiranga		Natanael Vieira Serrão	Cônjuge		Masculino		44			Ensino Fundamental Incompleto	Não																																									1645
-Itapiranga		Jhemeson Oliveira de Souza	Filho(a)		Masculino		16			Ensino Médio Incompleto	Não																																									1645
-Itapiranga		Manoel Monteiro da Silva Neto	Filho(a)		Masculino		12			Ensino Fundamental Incompleto	Não																																									1645
-Itapiranga		Nailton Castro de Araújo 	Cônjuge		Masculino		39			Ensino Superior Completo	Não																																									1646
-Itapiranga		Levy Silva Borges 	Filho(a)		Masculino		15			Ensino Fundamental Incompleto	Não																																									1646
-Itapiranga		Lucas Samuel da Silva Araújo 	Filho(a)		Masculino		7			Ensino Fundamental Incompleto	Não																																									1646
-Itapiranga		Ângelo Emanuel da Silva Araújo 	Filho(a)		Masculino		5			Alfabetizado	Não																																									1646
-Itapiranga		João Mateus da Silva Araújo 	Filho(a)		Masculino		3			Não alfabetizado	Não																																									1646
-Itapiranga		José Raimundo Neves Barauna	Cônjuge		Masculino		56			Alfabetizado	Não																																									1647
-Itapiranga		Jessica Gomes Barauna	Filho(a)		Feminino		17			Ensino Médio Incompleto	Não																												Não	Sim	1											1647
-Itapiranga		Resene Gomes Barauna	Filho(a)		Feminino		15			Ensino Fundamental Completo	Não																												Não	Sim	1											1647
-Itapiranga		Jezima Gomes Barauna	Cônjuge		Feminino		13			Ensino Fundamental Incompleto	Não																												Não	Não												1647
-Itapiranga		José Raimundo Neves Barauna filho 	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																									1647
-Itapiranga		Ana keila Gomes Barauna	Filho(a)		Feminino		8			Ensino Fundamental Incompleto	Não																																									1647
-Itapiranga		Eliaquim Gomes Barauna	Filho(a)		Masculino		6			Ensino Fundamental Incompleto	Não																																									1647
-Itapiranga		Zaqueu Gomes Barauna	Filho(a)		Masculino		5			Ensino Fundamental Incompleto	Não																																									1647
-Itapiranga		Lali Gomes Barauna	Filho(a)		Feminino		4			Não alfabetizado	Não																																									1647
-Itapiranga		Noé Gomes Barauna	Filho(a)		Masculino		2			Não alfabetizado	Não																																									1647
-Itapiranga		Jeciane Gomes Barauna	Filho(a)		Feminino		0			Não alfabetizado	Não																																									1647
-Itapiranga		Izanilce Teles de Andrada	Cônjuge		Feminino		32			Ensino Médio Incompleto	Não																																									1648
-Itapiranga		Josivan Andrade Barauna	Filho(a)		Masculino		15			Ensino Fundamental Incompleto	Não																																									1648
-Itapiranga		Risiane Andrada Barauna	Filho(a)		Feminino		13			Ensino Fundamental Incompleto	Não																												Não	Não												1648
-Itapiranga		Josilene Andrada Barauna	Filho(a)		Feminino		10			Ensino Fundamental Incompleto	Não																												Não	Não												1648
-Itapiranga		Izamara Andrade Barauna	Filho(a)		Feminino		8			Ensino Fundamental Incompleto	Não																																									1648
-Itapiranga		Naldo Neves Barauna	Cônjuge		Masculino		45			Ensino Fundamental Incompleto	Não																																									1649
-Itapiranga		Daniel Silva Barauna	Filho(a)		Masculino		8			Ensino Fundamental Incompleto	Não																																									1649
-Itapiranga		Mesias Neves Barauna	Filho(a)		Masculino		20			Ensino Médio Incompleto	Não																																									1650
-Itapiranga		Cristiane Guimarães Moura 	Outro	Nora	Feminino		14			Ensino Fundamental Incompleto	Não																												Não	Sim	1											1650
-Itapiranga		Cristiane Neves Barauna 	Filho(a)		Feminino		12			Ensino Fundamental Incompleto	Não																												Não	Não												1650
-Itapiranga		Alcinei Neves Barauna 	Filho(a)		Masculino		8			Ensino Fundamental Incompleto	Não																																									1650
-Itapiranga		Larissa Moura Barauna	Neto(a)		Feminino		0			Não alfabetizado	Não																																									1650
-Itapiranga		Josias Azevedo da Silva Prata 	Cônjuge		Masculino		45			Ensino Fundamental Incompleto	Não																																									1651
-Itapiranga		Marijane Barauna Prata 	Filho(a)		Feminino		15			Ensino Fundamental Incompleto	Não																												Não	Não												1651
-Itapiranga		Elia Barauna Prata 	Filho(a)		Feminino		13			Ensino Fundamental Incompleto	Não																												Não	Não												1651
-Itapiranga		Jedeone Bauaruna Prata	Filho(a)		Masculino		12			Ensino Fundamental Incompleto	Não																																									1651
-Itapiranga		Esmael Barauna Prata 	Filho(a)		Masculino		7			Ensino Fundamental Incompleto	Não																																									1651
-Itapiranga		Raquel Barauna Prata 	Filho(a)		Feminino		5			Alfabetizado	Não																																									1651
-Itapiranga		Mariele Neves Prata 	Filho(a)		Feminino		0			Não alfabetizado	Não																																									1651
-Itapiranga		Leonice Parintins	Cônjuge		Feminino		40			Ensino Fundamental Incompleto	Não																																									1652
-Itapiranga		Welinton Parintins de Souza	Filho(a)		Masculino		17			Ensino Fundamental Incompleto	Não																																									1652
-Itapiranga		Welison Parintins de Souza	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																									1652
-Itapiranga		Eloá Vitória Parintins de Souza	Filho(a)		Feminino		5			Ensino Fundamental Incompleto	Não																																									1652
-Itapiranga		Eduardo Parintins de Souza	Filho(a)		Masculino		4			Não alfabetizado	Não																																									1652
-Itapiranga		Francinildo Rodrigues Leite	Cônjuge		Masculino		31			Ensino Médio Incompleto	Não																																									1653
-Itapiranga		Lídia Teles Leite	Filho(a)		Feminino		11			Ensino Fundamental Incompleto	Não																												Não	Não												1653
-Itapiranga		Franciele Teles Leite	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																									1653
-Itapiranga		Fabrício Teles Leite	Filho(a)		Masculino		8			Ensino Fundamental Incompleto	Não																																									1653
-Itapiranga		Leonildo Teles Leite	Filho(a)		Masculino		6			Ensino Fundamental Incompleto	Não																																									1653
-Itapiranga		Manuel Vieira Coelho Filho	Cônjuge		Masculino		43			Ensino Médio Completo	Não																																									1654
-Itapiranga		Marcell Gonçalves Coelho	Filho(a)		Masculino		12			Ensino Fundamental Incompleto	Não																																									1654
-Itapiranga		Larissa Gonçalves Coelho	Filho(a)		Feminino		10			Ensino Fundamental Incompleto	Não																												Não	Não												1654
-Itapiranga		Mizael Gonçalves Coelho	Filho(a)		Masculino		4			Não alfabetizado	Não																																									1654
-Itapiranga		Maria Lucineide Rodrigues Miranda	Cônjuge		Feminino		50			Ensino Fundamental Incompleto	Não																																									1655
-Itapiranga		Jadson Miranda Leite	Filho(a)		Masculino		15			Ensino Fundamental Incompleto	Não																																									1655
-Itapiranga		Jamilly Miranda Leite	Filho(a)		Feminino		13			Ensino Fundamental Incompleto	Não																												Não	Não												1655
-Itapiranga		Rodney Miranda Leite	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																									1655
-Itapiranga		Jakson Rodrigues Ramos	Cônjuge		Masculino		27			Ensino Médio Completo	Não																																									1656
-Itapiranga		Janderson da Silva Leite	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																									1656
-Itapiranga		James Leite Ramos	Filho(a)		Masculino		8			Ensino Fundamental Incompleto	Não																																									1656
-Itapiranga		Kaio Gabriel Ramos Leite	Filho(a)		Masculino		5			Não alfabetizado	Não																																									1656
-Itapiranga		Bernardo Ramos Leite	Filho(a)		Masculino		3			Não alfabetizado	Não																																									1656
-Itapiranga		Maria Vitória Ramos Leite	Filho(a)		Feminino		1			Não alfabetizado	Não																																									1656
-Itapiranga		Joel Santana da Silva	Cônjuge		Masculino		28			Ensino Médio Incompleto	Não																																									1657
-Itapiranga		Luiz Fernando Silva Leite	Filho(a)		Masculino		10			Ensino Médio Incompleto	Não																																									1657
-Itapiranga		Joelbson da Silva Silva	Filho(a)		Masculino		6			Ensino Fundamental Incompleto	Não																																									1657
-Itapiranga		Joab Silva da Silva	Filho(a)		Masculino		3			Não alfabetizado	Não																																									1657
-Itapiranga		Joyce Layana da Silva Silva	Filho(a)		Feminino		0			Não alfabetizado	Não																																									1657
-Itapiranga		Elineu Vital Furtado	Cônjuge		Masculino		41			Ensino Fundamental Incompleto	Não																																									1658
-Itapiranga		Samuel dos Santos Furtado	Filho(a)		Masculino		7			Ensino Fundamental Incompleto	Não																																									1658
-Itapiranga		Leonel dos Santos Furtado	Filho(a)		Masculino		5			Não alfabetizado	Não																																									1658
-Itapiranga		Vanessa Guedes Serrão	Filho(a)		Feminino		15			Ensino Médio Incompleto	Não																												Não	Não												1659
-Itapiranga		Juliana Guedes Serrão	Filho(a)		Feminino		14			Ensino Fundamental Incompleto	Não																												Não	Não												1659
-Itapiranga		Alessandra Guedes Serrão	Filho(a)		Feminino		12			Ensino Fundamental Incompleto	Não																												Não	Não												1659
-Itapiranga		Luane Guedes Serrão	Filho(a)		Feminino		8			Ensino Fundamental Incompleto	Não																																									1659
-Itapiranga		Jessica Guedes Serrão	Filho(a)		Feminino		5			Não alfabetizado	Não																																									1659
-Itapiranga		Guilherme Guedes Serrão	Filho(a)		Masculino		2			Não alfabetizado	Não																																									1659
-Itapiranga		Raquel Souza de Jesus	Filho(a)		Feminino		17			Ensino Médio Incompleto	Não																												Sim	Não												1660
-Itapiranga		Everton Mendonça Leite	Outro	Genro	Masculino		19			Ensino Médio Completo	Não																																									1660
-Itapiranga		Tiago Souza de Jesus	Filho(a)		Masculino		16			Ensino Médio Incompleto	Não																																									1660
-Itapiranga		Josafá Souza de Jesus	Filho(a)		Masculino		13			Ensino Fundamental Incompleto	Não																																									1660
-Itapiranga		Gabriel Souza de Jesus	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																									1660
-Itapiranga		Raimundo Chaves Santana	Cônjuge		Masculino		41			Ensino Fundamental Incompleto	Não																																									1661
-Itapiranga		Paula Rayssa Carvalho Santana	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																									1661
-Itapiranga		Paula Rayane Carvalho Santana	Filho(a)		Feminino		7			Ensino Fundamental Incompleto	Não																																									1661
-Itapiranga		Renan Miguel Carvalho Santana	Filho(a)		Masculino		1			Não alfabetizado	Não																																									1661
-Itapiranga		Sebastião Nogueira de Souza	Cônjuge		Masculino		54			Ensino Médio Completo	Não																																									1662
-Itapiranga		Cristiane Santos Ferreira	Outro	Nora	Feminino		29			Ensino Fundamental Incompleto	Não																																									1662
-Itapiranga		Rogério Frota de Souza	Filho(a)		Masculino		29			Ensino Médio Incompleto	Não																																									1662
-Itapiranga		Ronaldo Frota de Souza	Neto(a)		Masculino		12			Não alfabetizado	Sim	Deficiência celebral																																								1662
-Itapiranga		Nayra Raquely da Costa Frota de Souza	Neto(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																									1662
-Itapiranga		Rayssa Santos Silva	Neto(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																									1662
-Itapiranga		Mara Rayane Conceição de Souza	Neto(a)		Feminino		6			Não alfabetizado	Não																																									1662
-Itapiranga		Rithily Ferreira de Souza	Neto(a)		Masculino		5			Não alfabetizado	Não																																									1662
-Itapiranga		Tamar Raylane Frota de Souza	Neto(a)		Feminino		5			Não alfabetizado	Não																																									1662
-Itapiranga		Michelly Ferreira de Souza	Neto(a)		Feminino		4			Não alfabetizado	Não																																									1662
-Itapiranga		Riquelme Ferreira de Souza	Neto(a)		Masculino		2			Não alfabetizado	Não																																									1662
-Itapiranga		Reisla Ferreira de Souza	Neto(a)		Feminino		1			Não alfabetizado	Não																																									1662
-Itapiranga		Katricia Monteiro de Souza	Cônjuge		Feminino		15			Ensino Fundamental Incompleto	Não																												Não	Sim	1											1663
-Itapiranga		Eudilene Chaves de Souza	Cônjuge		Feminino		21			Ensino Médio Incompleto	Não																																									1664
-Itapiranga		Akila Beatriz de Souza Rodrigues	Filho(a)		Feminino		7			Alfabetizado	Não																																									1664
-Itapiranga		Isadora Bianca de Souza Rodrigues	Filho(a)		Feminino		2			Não alfabetizado	Não																																									1664
-Itapiranga		Rosilene dos Santos Guedes 	Filho(a)		Feminino		11			Ensino Fundamental Incompleto	Não																												Não	Não												1665
-Itapiranga		Marilene Barros Moraes	Cônjuge		Feminino		52			Ensino Médio Incompleto	Não																																									1666
-Itapiranga		Vanderlei Barros Moraes	Filho(a)		Feminino		13			Ensino Médio Incompleto	Não																												Não	Não												1666
-Itapiranga		Marivana Barros Moraes	Filho(a)		Masculino		10			Ensino Fundamental Incompleto	Não																																									1666
-Itapiranga		David de Melo Pinto	Cônjuge		Masculino		30			Ensino Médio Completo	Não																																									1667
-Itapiranga		Vanderlene Moraes Pinto	Filho(a)		Feminino		11			Ensino Fundamental Incompleto	Não																												Não	Não												1667
-Itapiranga		Ronald Moraes Pinto	Filho(a)		Masculino		9			Ensino Fundamental Incompleto	Não																																									1667
-Itapiranga		Otomar Ramos Pinto	Cônjuge		Masculino		65			Ensino Fundamental Incompleto	Não																																									1668
-Itapiranga		Orielton Barros Pinto	Filho(a)		Masculino		36			Ensino Médio Completo	Não																																									1668
-Itapiranga		Welinton Vasconcelos Pinto	Neto(a)		Masculino		10			Ensino Fundamental Incompleto	Não																																									1668
-Itapiranga		Guilherme Vasconcelos Pinto	Neto(a)		Masculino		7			Ensino Fundamental Incompleto	Não																																									1668
-Itapiranga		Taylana Barros Gama	Filho(a)		Feminino		12			Ensino Fundamental Incompleto	Não																												Não	Não												1669
-Itapiranga		Tarleson Barros Gama	Filho(a)		Masculino		10			Ensino Fundamental Incompleto	Não																																									1669
-Itapiranga		Tamyres Barros Gama	Filho(a)		Feminino		7			Não alfabetizado	Não																																									1669
-Itapiranga		Thays Paula Barros Gama	Filho(a)		Feminino		3			Não alfabetizado	Não																																									1669
-Itapiranga		Micilene da Costa Barros	Cônjuge		Feminino		36			Ensino Médio Completo	Não																																									1670
-Itapiranga		Mirclei da Costa Barros	Filho(a)		Feminino		18			Ensino Médio Completo	Não																																									1670
-Itapiranga		Keliane Barros de Souza	Filho(a)		Feminino		15			Ensino Médio Incompleto	Não																												Não	Não												1670
-Itapiranga		Jeovana Barros de Souza	Filho(a)		Feminino		12			Ensino Fundamental Incompleto	Não																												Não	Não												1670
-Itapiranga		Felipe Barros de Souza	Filho(a)		Masculino		7			Não alfabetizado	Não																																									1670
-Itapiranga		Joílson Barros de Souza	Filho(a)		Masculino		9			Ensino Fundamental Incompleto	Não																																									1670
-Itapiranga		Antenor Rodrigues Barros Filho	Cônjuge		Masculino		44			Ensino Fundamental Incompleto	Não																																									1671
-Itapiranga		Aleilson da Costa Rodrigues	Filho(a)		Masculino		16			Ensino Médio Incompleto	Não																																									1671
-Itapiranga		Alexandre Diego da Costa Rodrigues	Filho(a)		Masculino		14			Ensino Fundamental Completo	Não																																									1671
-Itapiranga		Lara Eloá Rodrigues Bruno	Neto(a)		Feminino		1			Não alfabetizado	Não																																									1671
-Itapiranga		João Bosco Chaves Barros	Cônjuge		Masculino		56			Ensino Fundamental Incompleto	Não																																									1672
-Itapiranga		Gibson Pinto Barros	Filho(a)		Masculino		26			Ensino Médio Completo	Não																																									1672
-Itapiranga		João Bosco Chaves Barros Filho	Filho(a)		Masculino		21			Ensino Médio Completo	Não																																									1672
-Itapiranga		Richardson Pinto Barros	Filho(a)		Masculino		18			Ensino Médio Incompleto	Não																																									1672
-Itapiranga		Joygleson Pinto Barros	Filho(a)		Masculino		16			Ensino Médio Incompleto	Não																																									1672
-Itapiranga		Neyliane Pinto Barros	Filho(a)		Feminino		13			Ensino Fundamental Incompleto	Não																												Não	Não												1672
-Itapiranga		Emily Pinto Barros	Neto(a)		Feminino		10			Ensino Fundamental Incompleto	Não																												Não	Não												1672
-Itapiranga		Clelio da Mata Mendonça	Cônjuge		Masculino		45			Ensino Fundamental Incompleto	Não																																									1673
-Itapiranga		Aldenise Barros Mendonça	Filho(a)		Feminino		16			Ensino Médio Incompleto	Não																												Não	Não												1673
-Itapiranga		Epitácio Ramos de Mendonça Neto	Filho(a)		Masculino		18			Ensino Médio Completo	Não																																									1673
-Itapiranga		Clemilton Barros Mendonça	Filho(a)		Masculino		15			Ensino Fundamental Incompleto	Não																																									1673
-Itapiranga		Clenilton Barros Mendonça	Filho(a)		Masculino		12			Ensino Fundamental Incompleto	Não																																									1673
-Itapiranga		Angelica Barros Mendonça	Filho(a)		Feminino		10			Ensino Fundamental Incompleto	Não																												Não	Não												1673
-Itapiranga		Isabela Barros Mendonça	Filho(a)		Feminino		6			Não alfabetizado	Não																																									1673
-Itapiranga		Yure Marinho Neves	Cônjuge		Masculino		20			Ensino Médio Incompleto	Não																																									1674
-Itapiranga		Clicia Barros Dias	Filho(a)		Feminino		14			Ensino Fundamental Incompleto	Não																												Não	Não												1674
-Itapiranga		Adauam Barros da Silva	Filho(a)		Masculino		9			Ensino Fundamental Incompleto	Não																																									1674
-Itapiranga		Amily Barros da Silva	Filho(a)		Feminino		5			Alfabetizado	Não																																									1674
-Itapiranga		Yure Henrique Barros Marinho	Filho(a)		Masculino		2			Não alfabetizado	Não																																									1674
-Itapiranga		Thiarlem Costa Melo	Cônjuge		Masculino		23			Ensino Médio Incompleto	Não																																									1675
-Itapiranga		Charliane Reis de Oliveira 	Filho(a)		Feminino		14			Ensino Fundamental Completo	Não																												Não	Não												1675
-Itapiranga		Isabelle Reis de Oliveira 	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Sim	Autismo. 1,8 da doença. 																																								1675
-Itapiranga		Rodrigo Frota de Souza 	Cônjuge		Masculino		27			Ensino Médio Completo	Não																																									1676
-Itapiranga		Milgrid Jihane Coutinho da Silva 	Filho(a)		Feminino		15			Ensino Médio Incompleto	Não																												Não	Não												1676
-Itapiranga		Romeu Miller Coutinho de Souza 	Filho(a)		Feminino		3			Não alfabetizado	Não																																									1676
-Itapiranga		Lucicleia Chaves Santana	Cônjuge		Feminino		35			Ensino Médio Incompleto	Não																																									1677
-Itapiranga		Geisel Santana de Souza 	Filho(a)		Masculino		17			Ensino Médio Incompleto	Não																																									1677
-Itapiranga		Osiel Santana de Souza 	Filho(a)		Masculino		15			Ensino Fundamental Incompleto	Não																																									1677
-Itapiranga		Luciane Santana de Souza 	Filho(a)		Feminino		13			Ensino Fundamental Incompleto	Não																												Não	Não												1677
-Itapiranga		Luciana Santana de Souza 	Filho(a)		Feminino		11			Ensino Fundamental Incompleto	Não																												Não	Não												1677
-Itapiranga		Edson de Castro Rodrigues 	Cônjuge		Masculino		40			Ensino Fundamental Incompleto	Não																																									1678
-Itapiranga		Fernanda da Costa Rodrigues 	Filho(a)		Feminino		18			Ensino Médio Incompleto	Não																																									1678
-Itapiranga		Geovana nalanda Costa cruz	Filho(a)		Feminino		14			Ensino Fundamental Incompleto	Não																												Não	Não												1678
-Itapiranga		Eloani da Costa Rodrigues 	Filho(a)		Feminino		12			Ensino Fundamental Completo	Não																												Não	Não												1678
-Itapiranga		Naila Olivia Cabral da costa	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																									1678
-Itapiranga		Edson expedito da Costa Rodrigues 	Filho(a)		Masculino		0			Não alfabetizado	Não																																									1678
-Itapiranga		Fabrício Silva dos Santos 	Filho(a)		Masculino		16			Ensino Médio Incompleto	Não																																									1679
-Itapiranga		Leandro Silva de Carvalho 	Filho(a)		Masculino		12			Ensino Fundamental Incompleto	Não																																									1679
-Itapiranga		Letícia Souza de Carvalho 	Filho(a)		Feminino		18			Ensino Médio Incompleto	Não																																									1679
-Itapiranga		Eduardo Souza de Carvalho 	Filho(a)		Masculino		20			Ensino Médio Incompleto	Não																																									1679
-Itapiranga		Ana Beatriz Carvalho de Almeida 	Neto(a)		Feminino		0			Não alfabetizado	Não																																									1679
-Itapiranga		Janeo  Mafra Correia 	Cônjuge		Masculino		43			Ensino Médio Incompleto	Não																																									1680
-Itapiranga		Karen Cristine Gama Correia 	Filho(a)		Feminino		8			Ensino Fundamental Incompleto	Não																																									1680
-Itapiranga		Luane Gama Correia 	Filho(a)		Feminino		7			Ensino Fundamental Incompleto	Não																																									1680
-Itapiranga		Ágata wynne Cabral Gama 	Filho(a)		Feminino		12			Ensino Fundamental Incompleto	Não																												Não	Não												1680
-Itapiranga		Manoel lorival gama quintino 	Cônjuge		Masculino		33			Ensino Médio Completo	Não																																									1681
-Itapiranga		Diego emanuel amazonas	Outro	Sobrinho	Masculino		11			Ensino Fundamental Incompleto	Não																																									1681
-Itapiranga		Reyna andrade da costa 	Filho(a)		Feminino		18			Ensino Médio Incompleto	Não																																									1682
-Itapiranga		Anailson Souza de Almeida 	Outro	Genro	Masculino		18			Ensino Médio Incompleto	Não																																									1682
-Itapiranga		Antônio jucimar Cabral da costa 	Cônjuge		Masculino		43			Ensino Médio Incompleto	Não																																									1682
-Itapiranga		Lívia Andrade da Costa 	Filho(a)		Masculino		16			Ensino Médio Incompleto	Não																																									1682
-Itapiranga		Analu Raylla Andrade de Almeida 	Neto(a)		Feminino		0			Não alfabetizado	Não																																									1682
-Itapiranga		Ednamar Costa Ribeiro 	Cônjuge		Masculino		48			Ensino Fundamental Incompleto	Não																																									1683
-Itapiranga		Eulison de Matos Ribeiro 	Filho(a)		Masculino		15			Ensino Médio Incompleto	Não																																									1683
-Itapiranga		Eugleson de Matos Ribeiro 	Filho(a)		Masculino		13			Ensino Fundamental Incompleto	Não																																									1683
-Itapiranga		Luciane de Matos Ribeiro 	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																									1683
-Itapiranga		Letícia de Matos Ribeiro 	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																									1683
-Itapiranga		Francisco Xavier Costa de Almeida	Cônjuge		Masculino		41			Ensino Fundamental Incompleto	Não																																									1684
-Itapiranga		Vanessa Silva de Almeida	Filho(a)		Feminino		17			Ensino Médio Incompleto	Não																												Não	Não												1684
-Itapiranga		Otaciano Neto Silva de Almeida	Filho(a)		Masculino		15			Ensino Fundamental Incompleto	Não																																									1684
-Itapiranga		Artemiza Silva de Almeida	Filho(a)		Feminino		11			Ensino Fundamental Incompleto	Não																												Não	Não												1684
-Itapiranga		Artur Costa de Almeida 	Cônjuge		Masculino		38			Ensino Fundamental Incompleto	Não																																									1685
-Itapiranga		Gisele da Silva Almeida 	Filho(a)		Masculino		13			Ensino Fundamental Incompleto	Não																																									1685
-Itapiranga		Gabriele da Silva Almeida 	Filho(a)		Feminino		6			Ensino Fundamental Incompleto	Não																																									1685
-Itapiranga		Everton Barros de Almeida 	Filho(a)		Masculino		16			Ensino Fundamental Incompleto	Não																																									1686
-Itapiranga		Eduardo Barros de Almeida 	Filho(a)		Masculino		17			Ensino Médio Incompleto	Não																																									1686
-Itapiranga		Alessandro Neves Barros 	Irmão(ã)		Masculino		22			Ensino Médio Completo	Não																																									1686
-Itapiranga		Yamile Coelho dos Anjos 	Cônjuge		Feminino		31			Ensino Médio Completo	Não																																									1687
-Itapiranga		Nadson Ferreira de Souza 	Cônjuge		Masculino		36			Ensino Fundamental Incompleto	Não																																									1687
-Itapiranga		Ítalo dos Anjos de Souza 	Filho(a)		Masculino		13			Ensino Fundamental Incompleto	Não																																									1687
-Itapiranga		Willian dos anjos de Souza 	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																									1687
-Itapiranga		Igor dos anjos de Souza 	Filho(a)		Masculino		9			Ensino Fundamental Incompleto	Não																																									1687
-Itapiranga		Ana paula Pinto Félix 	Cônjuge		Feminino		35			Ensino Médio Completo	Não																																									1688
-Itapiranga		Marcos Serrão de Castro 	Cônjuge		Masculino		33			Ensino Fundamental Incompleto	Não																																									1688
-Itapiranga		Ana emanuelly Félix de Castro 	Filho(a)		Feminino		13			Ensino Fundamental Incompleto	Sim	Hipotirodismo																											Não	Não												1688
-Itapiranga		Manoel Garcia Gama 	Cônjuge		Masculino		52			Ensino Fundamental Incompleto	Não																																									1689
-Itapiranga		Mayara Santos Gama 	Filho(a)		Feminino		20			Ensino Médio Incompleto	Não																																									1689
-Itapiranga		Marineide Paola Santos Gama 	Filho(a)		Feminino		19			Ensino Médio Completo	Não																																									1689
-Itapiranga		Irene Santos Gama 	Filho(a)		Feminino		17			Ensino Médio Incompleto	Não																												Não	Não												1689
-Itapiranga		Jomara da Silva Santos 	Cônjuge		Feminino		34			Ensino Médio Completo	Não																																									1689
-Itapiranga		Joicy Santos Gama  	Filho(a)		Feminino		15			Ensino Médio Incompleto	Não																																									1689
-Itapiranga		Camila Santos Gama 	Filho(a)		Feminino		11			Ensino Fundamental Incompleto	Não																												Não	Não												1689
-Itapiranga		Jhennyfe eloah Gama nogueira	Filho(a)		Feminino		0			Não alfabetizado	Não																																									1689
-Itapiranga		Gideane Vitória Sá da Silva 	Filho(a)		Feminino		13			Ensino Fundamental Incompleto	Não																												Não	Não												1690
-Itapiranga		Geana Clara Sá da Silva Pereira 	Filho(a)		Feminino		10			Ensino Fundamental Incompleto	Não																												Não	Não												1690
-Itapiranga		Jocinete Miranda Nunes 	Cônjuge		Feminino		41			Ensino Fundamental Incompleto	Não																																									1691
-Itapiranga		Thiago Moraes dos Santos 	Cônjuge		Masculino		33			Ensino Médio Incompleto	Não																																									1691
-Itapiranga		Iranilson Nunes da Silva 	Filho(a)		Masculino		16			Ensino Fundamental Incompleto	Não																																									1691
-Itapiranga		Jovenilson Nunes da Silva 	Filho(a)		Masculino		14			Ensino Fundamental Incompleto	Não																																									1691
-Itapiranga		Deisiane Nunes da Silva 	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																									1691
-Itapiranga		Ycaro Guilherme Nunes dos Santos 	Filho(a)		Masculino		5			Não alfabetizado	Sim	Doença crônica no intestino																																								1691
-Itapiranga		Regina Gabriela Nunes dos Santos 	Filho(a)		Feminino		4			Não alfabetizado	Não																																									1691
-Itapiranga		Nicoli Nunes dos Santos 	Filho(a)		Feminino		0			Não alfabetizado	Não																																									1691
-Itapiranga		Gracilene Preste Amazonas 	Cônjuge		Feminino		36			Ensino Médio Completo	Não																																									1692
-Itapiranga		Claudeane da Silva leal	Cônjuge		Masculino		42			Ensino Fundamental Incompleto	Não																																									1692
-Itapiranga		Reynna Amazonas Leal 	Filho(a)		Feminino		12			Ensino Médio Incompleto	Não																												Não	Não												1692
-Itapiranga		Stefhany Alice Amazonas Leal 	Filho(a)		Feminino		8			Ensino Fundamental Incompleto	Não																																									1692
-Itapiranga		Ana Alice Amazonas Leal 	Filho(a)		Feminino		0			Não alfabetizado	Não																																									1692
-Itapiranga		Valdilene Gomes Maia Gama 	Cônjuge		Feminino		32			Ensino Médio Incompleto	Não																																									1693
-Itapiranga		Carlos Alberto Miranda Lyra 	Cônjuge		Masculino		36			Ensino Médio Incompleto	Não																																									1693
-Itapiranga		Carlos Jair Maia gama	Filho(a)		Masculino		9			Ensino Médio Incompleto	Não																																									1693
-Itapiranga		Ketlen Vitória Maia Gama 	Filho(a)		Feminino		5			Não alfabetizado	Não																																									1693
-Itapiranga		Casiane Vanessa Maia Gama 	Filho(a)		Feminino		0			Não alfabetizado	Não																																									1693
-Itapiranga		Maria Suely Silva de Almeida	Cônjuge		Feminino		45			Ensino Médio Completo	Não																																									1694
-Itapiranga		José Luiz Alves de Almeida	Cônjuge		Masculino		45			Ensino Médio Completo	Não																																									1694
-Itapiranga		Marcos Vinicius Silva de Almeida	Filho(a)		Masculino		15			Ensino Médio Incompleto	Não																																									1694
-Itapiranga		José Luiz Silva de Almeida	Filho(a)		Masculino		7			Ensino Fundamental Incompleto	Não																																									1694
-Itapiranga		Ana Fátima Silva de Almeida	Filho(a)		Feminino		5			Não alfabetizado	Não																																									1694
-Itapiranga		Jordana Caroline Barbosa  Martins 	Filho(a)		Feminino		19			Ensino Médio Completo	Não																																									1695
-Itapiranga		Lucio de Souza Barbosa Neto 	Filho(a)		Masculino		18			Ensino Médio Incompleto	Não																																									1695
-Itapiranga		Cássio Adriano Barbosa Martins 	Filho(a)		Masculino		16			Ensino Médio Incompleto	Não																																									1695
-Itapiranga		Maria de Jesus Ferreira de Sá 	Cônjuge		Feminino		34			Ensino Médio Completo	Não																																									1696
-Itapiranga		Nixon dos Santos Seixas 	Cônjuge		Masculino		45			Ensino Superior Completo	Não																																									1696
-Itapiranga		Estefane Paula Sá Seixas 	Filho(a)		Feminino		19			Ensino Médio Completo	Não																																									1696
-Itapiranga		Joh marglesson Sá Seixas 	Filho(a)		Masculino		18			Ensino Médio Incompleto	Não																																									1696
-Itapiranga		Marien sahado Sá Seixas 	Filho(a)		Masculino		17			Ensino Médio Incompleto	Não																																									1696
-Itapiranga		Nicolay Nixon Sá Seixas 	Filho(a)		Masculino		15			Ensino Fundamental Incompleto	Não																																									1696
-Itapiranga		Anthony Joseph Sá Seixas 	Filho(a)		Masculino		15			Ensino Fundamental Incompleto	Não																																									1696
-Itapiranga		Yan Mitchell de Sá Seixas 	Filho(a)		Masculino		12			Ensino Fundamental Incompleto	Não																																									1696
-Itapiranga		José Maria Farias Amazonas 	Cônjuge		Masculino		49			Ensino Fundamental Incompleto	Não																																									1697
-Itapiranga		Lázaro Augusto de Souza Amazonas 	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																									1697
-Itapiranga		Luiz Henrique de Souza Amazonas 	Filho(a)		Masculino		4			Não alfabetizado	Não																																									1697
-Itapiranga		Orejane Nunes de Carvalho 	Cônjuge		Masculino		51			Ensino Fundamental Incompleto	Não																																									1698
-Itapiranga		Tatiane da Silva Carvalho 	Filho(a)		Masculino		23			Ensino Médio Incompleto	Não																																									1698
-Itapiranga		Victor Gabriel da Silva Carvalho 	Neto(a)		Masculino		3			Não alfabetizado	Não																																									1698
-Itapiranga		Leonira Santos Moraes 	Filho(a)		Feminino		18			Ensino Médio Incompleto	Não																																									1699
-Itapiranga		Leonilson Santos Moraes 	Filho(a)		Masculino		16			Ensino Médio Incompleto	Não																																									1699
-Itapiranga		Roberto Pereira Lavareda	Cônjuge		Masculino		45			Ensino Médio Incompleto	Sim	Doença crônica 																																								1700
-Itapiranga		Franciele Roberta Souza Lavareda	Filho(a)		Feminino		6			Ensino Fundamental Incompleto	Não																																									1700
-Itapiranga		José Divá Lima dos Santos 	Cônjuge		Masculino		58			Ensino Fundamental Incompleto	Não																																									1701
-Itapiranga		Nádja Fernanda dos Santos Matos 	Filho(a)		Feminino		12			Ensino Fundamental Incompleto	Não																												Não	Não												1701
-Itapiranga		Estêvão Simão dos Santos Matos	Filho(a)		Masculino		10			Ensino Fundamental Incompleto	Não																																									1701
-Itapiranga		Albega de Souza Ferreira Viana 	Cônjuge		Feminino		43			Ensino Fundamental Completo	Não																																									1702
-Itapiranga		Ramiro Júnior Ferreira Bruno 	Outro	Enteado	Masculino		18			Ensino Médio Incompleto	Não																																									1702
-Itapiranga		José Roberto de Queiroz Pereira 	Cônjuge		Masculino		55			Ensino Fundamental Incompleto	Não																																									1703
-Itapiranga		Ana Roberta de Oliveira Pereira 	Filho(a)		Feminino		12			Ensino Fundamental Incompleto	Não																												Não	Não												1703
-Itapiranga		José Roberto de Oliveira Pereira 	Filho(a)		Masculino		8			Ensino Fundamental Incompleto	Não																																									1703
-Itapiranga		Maria Clara de Oliveira Pereira 	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																									1703
-Itapiranga		Omira de Souza Ferreira 	Cônjuge		Feminino		44			Ensino Médio Completo	Não																																									1704
-Itapiranga		Eliene Ferreira do Nascimento 	Filho(a)		Feminino		18			Ensino Médio Completo	Não																																									1704
-Itapiranga		Ellen Raysa Ferreira do Nascimento 	Filho(a)		Feminino		15			Ensino Médio Incompleto	Não																												Não	Não												1704
-Itapiranga		Anderson Ferreira do Nascimento 	Filho(a)		Masculino		23			Ensino Médio Completo	Não																																									1704
-Itapiranga		Izaldo Jesus do Nascimento 	Cônjuge		Masculino		72			Alfabetizado	Não																																									1704
-Itapiranga		Elidiane Silva da Costa 	Cônjuge		Feminino		24			Ensino Médio Completo	Não																																									1705
-Itapiranga		Willian da Silva Leal 	Cônjuge		Masculino		27			Ensino Fundamental Completo	Não																																									1705
-Itapiranga		Angelina Lorrayne Silvia Leal 	Filho(a)		Feminino		4			Não alfabetizado	Não																																									1705
-Itapiranga		Geomara Teles Farias 	Cônjuge		Feminino		35			Ensino Fundamental Incompleto	Não																																									1706
-Itapiranga		Mauro Alberico Borges de Sales 	Cônjuge		Masculino		52			Ensino Médio Completo	Sim	Amputação de um dedo das mãos 																																								1706
-Itapiranga		Maurício Victor Farias  Borges 	Filho(a)		Masculino		18			Ensino Médio Completo	Não																																									1706
-Itapiranga		Odelia Borges do Carmo Neto 	Filho(a)		Feminino		16			Ensino Médio Incompleto	Não																												Não	Não												1706
-Itapiranga		Antônia Souza da Silva 	Cônjuge		Feminino		58			Ensino Fundamental Incompleto	Não																																									1707
-Itapiranga		Ely Pereira da Silva 	Filho(a)		Masculino		29			Ensino Fundamental Incompleto	Não																																									1707
-Itapiranga		Miguel Salomão Teixeira Martins 	Outro	Bisneto	Masculino		3			Não alfabetizado	Não																																									1707
-Itapiranga		Sofia Teixeira 	Outro	Bisneto	Feminino		1			Não alfabetizado	Não																																									1707
-Itapiranga		Léia Cristina da Silva Teixeira	Neto(a)		Feminino		17			Ensino Médio Incompleto	Não																												Não	Sim	1											1707
-Itapiranga		Sionete de Souza Oliveira 	Cônjuge		Feminino		37			Ensino Médio Incompleto	Não																																									1708
-Itapiranga		Sionete de Souza Oliveira 	Cônjuge		Feminino		37			Ensino Médio Incompleto	Não																																									1708
-Itapiranga		Nelson Monteiro de Sales 	Cônjuge		Masculino		37			Ensino Médio Incompleto	Não																																									1708
-Itapiranga		Nilson Oliveira de Sales 	Filho(a)		Masculino		17			Ensino Médio Incompleto	Não																																									1708
-Itapiranga		Karine Oliveira de Sales 	Filho(a)		Feminino		14			Ensino Médio Incompleto	Não																												Não	Não												1708
-Itapiranga		Ana célia Bruna de Carvalho 	Mãe		Feminino		33			Ensino Médio Incompleto	Não																																									1709
-Itapiranga		Naely Bruna de Carvalho 	Filho(a)		Feminino		16			Ensino Médio Incompleto	Não																												Não	Não												1709
-Itapiranga		Jordan Carvalho de Andrade 	Filho(a)		Masculino		14			Ensino Médio Incompleto	Não																																									1709
-Itapiranga		Josie Carvalho de Andrade 	Filho(a)		Masculino		8			Ensino Fundamental Incompleto	Sim	Física dedo do pé e mão amputados																																								1709
-Itapiranga		Marciley Farias Viana 	Cônjuge		Feminino		37			Ensino Médio Incompleto	Não																																									1710
-Itapiranga		Valdenor de Souza Monteiro 	Cônjuge		Masculino		34			Ensino Médio Incompleto	Não																																									1710
-Itapiranga		Eduardo Viana jeffreyson 	Filho(a)		Masculino		17			Ensino Médio Incompleto	Não																																									1710
-Itapiranga		Izaquel Viana Monteiro 	Filho(a)		Masculino		13			Ensino Fundamental Incompleto	Não																																									1710
-Itapiranga		Elizama Viana Monteiro 	Filho(a)		Masculino		2			Ensino Fundamental Incompleto	Não																																									1710
-Itapiranga		Anete Queiroz de Souza 	Cônjuge		Feminino		47			Ensino Fundamental Incompleto	Não																																									1711
-Itapiranga		Amarildo Costa de Almeida 	Cônjuge		Masculino		50			Ensino Fundamental Incompleto	Não																																									1711
-Itapiranga		Antônio Souza de Almeida 	Filho(a)		Masculino		15			Ensino Médio Incompleto	Sim	Deficiência física: braço quebrado																																								1711
-Itapiranga		Luan Souza de Almeida 	Filho(a)		Masculino		12			Ensino Médio Incompleto	Não																																									1711
-Itapiranga		Ariel Almeida dos Santos 	Neto(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																									1711
-Itapiranga		Luane Souza de Almeida 	Filho(a)		Feminino		4			Não alfabetizado	Não																																									1711
-Itapiranga		Raimundo Iranildo Fernandes da Costa 	Cônjuge		Masculino		50			Ensino Fundamental Incompleto	Não																																									1712
-Itapiranga		Amina Lúcia Rosas Tavares 	Cônjuge		Feminino		48			Ensino Fundamental Incompleto	Sim	Auditiva																																								1712
-Itapiranga		Gabriel Silva de Abreu 	Outro	Sobrinho 	Masculino		12			Ensino Fundamental Incompleto	Não																																									1712
-Itapiranga		Simone Lopes Fernandes 	Cônjuge		Feminino		31			Ensino Médio Completo	Não																																									1713
-Itapiranga		Elielson Carvalho Fonseca 	Cônjuge		Masculino		33			Ensino Médio Incompleto	Não																																									1713
-Itapiranga		Evelin Fernandes Fonseca 	Filho(a)		Feminino		12			Ensino Médio Incompleto	Não																												Não	Não												1713
-Itapiranga		Everton Fernandes Fonseca 	Filho(a)		Masculino		10			Ensino Fundamental Incompleto	Não																																									1713
-Itapiranga		Ederson Gabriel Fernandes Fonseca 	Filho(a)		Masculino		6			Ensino Fundamental Incompleto	Não																																									1713
-Itapiranga		Erison Levy Fernandes Fonseca 	Filho(a)		Masculino		1			Não alfabetizado	Não																																									1713
-Itapiranga		Enderlyn suiane Fernandes Fonseca 	Filho(a)		Masculino		6			Ensino Fundamental Incompleto	Não																																									1713
-Itapiranga		Terezinha Viana Trindade 	Cônjuge		Feminino		48			Ensino Fundamental Incompleto	Não																																									1714
-Itapiranga		Carlos Augusto Barbosa de Souza 	Cônjuge		Masculino		52			Ensino Fundamental Incompleto	Não																																									1714
-Itapiranga		Andreza Trindade de Souza 	Filho(a)		Feminino		14			Ensino Fundamental Completo	Não																												Não	Não												1714
-Itapiranga		Igor Trindade de Souza 	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																									1714
-Itapiranga		Creuza de Jesus Guedes 	Cônjuge		Feminino		35			Ensino Médio Incompleto	Não																																									1715
-Itapiranga		José Mário Neves de Almeida 	Cônjuge		Masculino		43			Ensino Médio Incompleto	Não																																									1715
-Itapiranga		Mário Júnior Guedes de Almeida 	Filho(a)		Masculino		43			Ensino Médio Incompleto	Não																																									1715
-Itapiranga		Mário Júnior Guedes de Almeida 	Filho(a)		Masculino		18			Ensino Médio Incompleto	Não																																									1715
-Itapiranga		Creuziane Guedes de Almeida 	Filho(a)		Feminino		15			Ensino Médio Incompleto	Não																												Não	Não												1715
-Itapiranga		Liedson Neves de Almeida 	Filho(a)		Masculino		12			Ensino Fundamental Incompleto	Não																																									1715
-Itapiranga		Amaury Góes de Castro 	Cônjuge		Masculino		51			Ensino Fundamental Incompleto	Não																																									1716
-Itapiranga		Katiane de Souza Mendonça 	Cônjuge		Feminino		40			Ensino Médio Incompleto	Não																																									1716
-Itapiranga		Kelen Gabriele Souza de Castro 	Filho(a)		Feminino		17			Ensino Médio Incompleto	Não																												Não	Não												1716
+Itapiranga		Francisco Pereira da Costa	Cônjuge		Masculino		35			Ensino Médio Incompleto	Não																																								4612	1627
+Itapiranga		Francineide Ferreira Costa	Filho(a)		Feminino		17			Ensino Médio Incompleto	Não																												Não	Não											4612	1627
+Itapiranga		Franciele Ferreira da Costa	Filho(a)		Feminino		13			Ensino Médio Completo	Não																												Não	Não											4612	1627
+Itapiranga		Lucas Rodrigo Ferreira da Costa	Filho(a)		Masculino		11			Ensino Médio Incompleto	Não																																								4612	1627
+Itapiranga		Rikelmy Ferreira da Costa	Filho(a)		Masculino		9			Ensino Fundamental Incompleto	Não																																								4612	1627
+Itapiranga		Ana Rute Ferreira da Costa	Filho(a)		Feminino		6			Ensino Médio Incompleto	Não																																								4612	1627
+Itapiranga		Valesca Mirela de Oliveira Vieira	Filho(a)		Feminino		13			Ensino Médio Incompleto	Não																												Não	Não											4612	1628
+Itapiranga		Carlos Alexandre Lima da Silva	Filho(a)		Masculino		6			Ensino Médio Incompleto	Não																																								4612	1628
+Itapiranga		Antônio Celio da Cruz Gomes 	Cônjuge		Masculino		30			Ensino Médio Incompleto	Não																																								4612	1629
+Itapiranga		Amanda Patrícia Vieira Gomes 	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																								4612	1629
+Itapiranga		Aluana Vieira Gomes 	Filho(a)		Feminino		6			Ensino Fundamental Incompleto	Não																																								4612	1629
+Itapiranga		Sara Gomes 	Cônjuge		Feminino		25			Ensino Médio Incompleto	Não																																								4612	1630
+Itapiranga		Marlene da Cruz Gomes 	Filho(a)		Feminino		16			Ensino Médio Incompleto	Não																												Não	Não											4612	1630
+Itapiranga		Poliana de Oliveira Paz	Outro	Enteado	Feminino		3			Não alfabetizado	Não																																								4612	1630
+Itapiranga		Renato Medeiros do Carmo	Cônjuge		Masculino		22			Ensino Fundamental Completo	Não																																								4612	1631
+Itapiranga		Renato Felipe Gomes do Carmo	Filho(a)		Masculino		1			Não alfabetizado	Não																																								4612	1631
+Itapiranga		Jeiciene Ferreira Gomes	Irmão(ã)		Feminino		15			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1631
+Itapiranga		Jeane Ferreira dos Santos 	Filho(a)		Feminino		31			Ensino Superior Incompleto	Não																																								4612	1632
+Itapiranga		Ana Letícia Ferreira dos Santos 	Neto(a)		Feminino		12			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1632
+Itapiranga		Raimundo Claudinei dos Santos Gomes 	Outro	Genro	Masculino		35			Ensino Médio Completo	Não																																								4612	1632
+Itapiranga		Maria Helena dos Santos Gomes 	Neto(a)		Feminino		10			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1632
+Itapiranga		Erika Thamila dos Santos Marques	Filho(a)		Feminino		13			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1633
+Itapiranga		Bianca do Carmo dos Santos	Filho(a)		Feminino		8			Ensino Fundamental Incompleto	Não																																								4612	1633
+Itapiranga		Iure Renato dos Santos	Filho(a)		Masculino		4			Não alfabetizado	Não																																								4612	1633
+Itapiranga		Joelson Batista da Silva	Cônjuge		Masculino		36			Ensino Fundamental Incompleto	Não																																								4612	1634
+Itapiranga		Ana Paula Bernardes da Rosa	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																								4612	1634
+Itapiranga		Tiago Batista Rodrigues 	Filho(a)		Masculino		17			Ensino Médio Incompleto	Não																																								4612	1635
+Itapiranga		Davi Gomes da Silva	Cônjuge		Masculino		39			Ensino Fundamental Incompleto	Não																																								4612	1636
+Itapiranga		Alcivan Rodrigues Lira	Filho(a)		Masculino		9			Ensino Fundamental Incompleto	Não																																								4612	1636
+Itapiranga		Jhonatan Rodrigues Lira	Filho(a)		Masculino		8			Ensino Fundamental Incompleto	Não																																								4612	1636
+Itapiranga		Larissa Rodrigues da Silva	Filho(a)		Feminino		5			Ensino Fundamental Incompleto	Não																																								4612	1636
+Itapiranga		Davi Eduardo Rodrigues da Silva	Filho(a)		Masculino		4			Não alfabetizado	Não																																								4612	1636
+Itapiranga		Sabrina Rodrigues da Silva	Filho(a)		Feminino		3			Não alfabetizado	Não																																								4612	1636
+Itapiranga		Márcio Gomes de Souza	Cônjuge		Masculino		29			Ensino Fundamental Incompleto	Não																																								4612	1637
+Itapiranga		Rangel Rodrigues de Souza	Filho(a)		Masculino		12			Ensino Fundamental Incompleto	Não																																								4612	1637
+Itapiranga		Gean Rodrigues de Souza	Filho(a)		Masculino		9			Ensino Fundamental Incompleto	Não																																								4612	1637
+Itapiranga		Vanessa Rodrigues de Souza	Filho(a)		Feminino		8			Ensino Fundamental Incompleto	Não																																								4612	1637
+Itapiranga		Gabriel Rodrigues de Souza	Filho(a)		Feminino		7			Ensino Fundamental Incompleto	Não																																								4612	1637
+Itapiranga		Gabriela Rodrigues de Souza	Filho(a)		Feminino		7			Ensino Fundamental Incompleto	Não																																								4612	1637
+Itapiranga		Ketlen Rodrigues de Souza	Filho(a)		Feminino		5			Alfabetizado	Não																																								4612	1637
+Itapiranga		Nayara Rodrigues de Souza	Filho(a)		Feminino		3			Alfabetizado	Não																																								4612	1637
+Itapiranga		Taiane Rodrigues de Souza	Filho(a)		Feminino		1			Não alfabetizado	Não																																								4612	1637
+Itapiranga		Alcimar Prado Lima	Cônjuge		Masculino		22			Ensino Fundamental Incompleto	Sim	Deficiência física: joelhos com lesões devido um acidente jogando bola.																																							4612	1638
+Itapiranga		Suzana Consuelo Melquizoar Viana Santos	Filho(a)		Feminino		13			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1638
+Itapiranga		Agnanda Consuelo Viana Rodrigues	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																								4612	1638
+Itapiranga		Ana Consuelo dos Santos Lira	Filho(a)		Feminino		0			Não alfabetizado	Não																																								4612	1638
+Itapiranga		Alcimir Prado Lira	Outro	Cunhado	Masculino		17			Ensino Médio Incompleto	Sim	Deficiência física: amputação da metade de um dedo devido um acidente em uma máquina de barco.																																							4612	1638
+Itapiranga		Vilma Prado de Souza	Cônjuge		Feminino		37			Ensino Fundamental Incompleto	Não																																								4612	1639
+Itapiranga		Varderly Souza Rodrigues	Filho(a)		Masculino		14			Ensino Fundamental Incompleto	Não																																								4612	1639
+Itapiranga		Dayara Souza Rodrigues	Filho(a)		Feminino		12			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1639
+Itapiranga		Valdely Souza Rodrigues	Filho(a)		Masculino		9			Ensino Fundamental Incompleto	Não																																								4612	1639
+Itapiranga		Rosilene da Costa Pereira	Cônjuge		Feminino		37			Ensino Fundamental Incompleto	Não																																								4612	1640
+Itapiranga		Vinícius Pereira de Souza	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																								4612	1640
+Itapiranga		Ricardo Pereira de Souza	Filho(a)		Masculino		9			Ensino Fundamental Incompleto	Não																																								4612	1640
+Itapiranga		Raissa Pereira de Souza	Filho(a)		Feminino		5			Ensino Fundamental Incompleto	Não																																								4612	1640
+Itapiranga		Ednei Pereira de Souza	Filho(a)		Masculino		4			Não alfabetizado	Não																																								4612	1640
+Itapiranga		Maik Silva dos Santos 	Cônjuge		Masculino		30			Ensino Fundamental Incompleto	Não																																								4612	1641
+Itapiranga		Mateus Souza dos Santos 	Filho(a)		Masculino		12			Ensino Fundamental Incompleto	Não																																								4612	1641
+Itapiranga		Rafael Souza dos Santos 	Filho(a)		Masculino		10			Ensino Fundamental Incompleto	Não																																								4612	1641
+Itapiranga		Gabriel Souza dos Santos 	Filho(a)		Masculino		8			Ensino Fundamental Incompleto	Não																																								4612	1641
+Itapiranga		Edeildes Corrêa Pinto	Cônjuge		Masculino		44			Ensino Fundamental Incompleto	Não																																								4612	1642
+Itapiranga		Ednildes de Souza Pinto	Filho(a)		Masculino		18			Ensino Médio Incompleto	Não																																								4612	1642
+Itapiranga		Deilma de Souza Pinto	Filho(a)		Feminino		16			Ensino Fundamental Incompleto	Sim	Doença cronica: Leucemia porem está concluindo o tratamento																											Sim	Não											4612	1642
+Itapiranga		Edenilton Souza Pinto	Filho(a)		Masculino		14			Ensino Fundamental Incompleto	Não																																								4612	1642
+Itapiranga		Daiana Souza Pinto	Filho(a)		Feminino		11			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1642
+Itapiranga		Denilson de Souza Pinto	Filho(a)		Masculino		8			Ensino Fundamental Incompleto	Não																																								4612	1642
+Itapiranga		Daiane de Souza Pinto	Filho(a)		Feminino		5			Não alfabetizado	Não																																								4612	1642
+Itapiranga		Deane de Souza Pinto	Filho(a)		Feminino		1			Não alfabetizado	Não																																								4612	1642
+Itapiranga		Evandro Ramos da Silva	Cônjuge		Masculino		47			Ensino Fundamental Incompleto	Não																																								4612	1643
+Itapiranga		Júnior Ramos Vieira	Filho(a)		Masculino		21			Ensino Fundamental Incompleto	Não																																								4612	1643
+Itapiranga		Josiane Ramos Vieira	Filho(a)		Feminino		20			Ensino Médio Incompleto	Não																																								4612	1643
+Itapiranga		Vanderson Ramos Vieira	Filho(a)		Masculino		18			Ensino Médio Incompleto	Não																																								4612	1643
+Itapiranga		Marciane Ramos Vieira	Filho(a)		Feminino		16			Ensino Médio Incompleto	Não																												Não	Não											4612	1643
+Itapiranga		Jairo Oliveira da Silva	Cônjuge		Masculino		37			Ensino Fundamental Incompleto	Não																																								4612	1644
+Itapiranga		Deisiane Borges da Silva	Filho(a)		Feminino		14			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1644
+Itapiranga		Jaiane Borges da Silva	Filho(a)		Feminino		10			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1644
+Itapiranga		Daiane Borges da Silva	Filho(a)		Feminino		8			Ensino Fundamental Incompleto	Não																																								4612	1644
+Itapiranga		Jhonatas Borges da Silva	Filho(a)		Masculino		6			Não alfabetizado	Não																																								4612	1644
+Itapiranga		Júlio César Borges da Silva	Filho(a)		Masculino		4			Não alfabetizado	Não																																								4612	1644
+Itapiranga		Natanael Vieira Serrão	Cônjuge		Masculino		44			Ensino Fundamental Incompleto	Não																																								4612	1645
+Itapiranga		Jhemeson Oliveira de Souza	Filho(a)		Masculino		16			Ensino Médio Incompleto	Não																																								4612	1645
+Itapiranga		Manoel Monteiro da Silva Neto	Filho(a)		Masculino		12			Ensino Fundamental Incompleto	Não																																								4612	1645
+Itapiranga		Nailton Castro de Araújo 	Cônjuge		Masculino		39			Ensino Superior Completo	Não																																								4612	1646
+Itapiranga		Levy Silva Borges 	Filho(a)		Masculino		15			Ensino Fundamental Incompleto	Não																																								4612	1646
+Itapiranga		Lucas Samuel da Silva Araújo 	Filho(a)		Masculino		7			Ensino Fundamental Incompleto	Não																																								4612	1646
+Itapiranga		Ângelo Emanuel da Silva Araújo 	Filho(a)		Masculino		5			Alfabetizado	Não																																								4612	1646
+Itapiranga		João Mateus da Silva Araújo 	Filho(a)		Masculino		3			Não alfabetizado	Não																																								4612	1646
+Itapiranga		José Raimundo Neves Barauna	Cônjuge		Masculino		56			Alfabetizado	Não																																								4612	1647
+Itapiranga		Jessica Gomes Barauna	Filho(a)		Feminino		17			Ensino Médio Incompleto	Não																												Não	Sim	1										4612	1647
+Itapiranga		Resene Gomes Barauna	Filho(a)		Feminino		15			Ensino Fundamental Completo	Não																												Não	Sim	1										4612	1647
+Itapiranga		Jezima Gomes Barauna	Cônjuge		Feminino		13			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1647
+Itapiranga		José Raimundo Neves Barauna filho 	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																								4612	1647
+Itapiranga		Ana keila Gomes Barauna	Filho(a)		Feminino		8			Ensino Fundamental Incompleto	Não																																								4612	1647
+Itapiranga		Eliaquim Gomes Barauna	Filho(a)		Masculino		6			Ensino Fundamental Incompleto	Não																																								4612	1647
+Itapiranga		Zaqueu Gomes Barauna	Filho(a)		Masculino		5			Ensino Fundamental Incompleto	Não																																								4612	1647
+Itapiranga		Lali Gomes Barauna	Filho(a)		Feminino		4			Não alfabetizado	Não																																								4612	1647
+Itapiranga		Noé Gomes Barauna	Filho(a)		Masculino		2			Não alfabetizado	Não																																								4612	1647
+Itapiranga		Jeciane Gomes Barauna	Filho(a)		Feminino		0			Não alfabetizado	Não																																								4612	1647
+Itapiranga		Izanilce Teles de Andrada	Cônjuge		Feminino		32			Ensino Médio Incompleto	Não																																								4612	1648
+Itapiranga		Josivan Andrade Barauna	Filho(a)		Masculino		15			Ensino Fundamental Incompleto	Não																																								4612	1648
+Itapiranga		Risiane Andrada Barauna	Filho(a)		Feminino		13			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1648
+Itapiranga		Josilene Andrada Barauna	Filho(a)		Feminino		10			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1648
+Itapiranga		Izamara Andrade Barauna	Filho(a)		Feminino		8			Ensino Fundamental Incompleto	Não																																								4612	1648
+Itapiranga		Naldo Neves Barauna	Cônjuge		Masculino		45			Ensino Fundamental Incompleto	Não																																								4612	1649
+Itapiranga		Daniel Silva Barauna	Filho(a)		Masculino		8			Ensino Fundamental Incompleto	Não																																								4612	1649
+Itapiranga		Mesias Neves Barauna	Filho(a)		Masculino		20			Ensino Médio Incompleto	Não																																								4612	1650
+Itapiranga		Cristiane Guimarães Moura 	Outro	Nora	Feminino		14			Ensino Fundamental Incompleto	Não																												Não	Sim	1										4612	1650
+Itapiranga		Cristiane Neves Barauna 	Filho(a)		Feminino		12			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1650
+Itapiranga		Alcinei Neves Barauna 	Filho(a)		Masculino		8			Ensino Fundamental Incompleto	Não																																								4612	1650
+Itapiranga		Larissa Moura Barauna	Neto(a)		Feminino		0			Não alfabetizado	Não																																								4612	1650
+Itapiranga		Josias Azevedo da Silva Prata 	Cônjuge		Masculino		45			Ensino Fundamental Incompleto	Não																																								4612	1651
+Itapiranga		Marijane Barauna Prata 	Filho(a)		Feminino		15			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1651
+Itapiranga		Elia Barauna Prata 	Filho(a)		Feminino		13			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1651
+Itapiranga		Jedeone Bauaruna Prata	Filho(a)		Masculino		12			Ensino Fundamental Incompleto	Não																																								4612	1651
+Itapiranga		Esmael Barauna Prata 	Filho(a)		Masculino		7			Ensino Fundamental Incompleto	Não																																								4612	1651
+Itapiranga		Raquel Barauna Prata 	Filho(a)		Feminino		5			Alfabetizado	Não																																								4612	1651
+Itapiranga		Mariele Neves Prata 	Filho(a)		Feminino		0			Não alfabetizado	Não																																								4612	1651
+Itapiranga		Leonice Parintins	Cônjuge		Feminino		40			Ensino Fundamental Incompleto	Não																																								4612	1652
+Itapiranga		Welinton Parintins de Souza	Filho(a)		Masculino		17			Ensino Fundamental Incompleto	Não																																								4612	1652
+Itapiranga		Welison Parintins de Souza	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																								4612	1652
+Itapiranga		Eloá Vitória Parintins de Souza	Filho(a)		Feminino		5			Ensino Fundamental Incompleto	Não																																								4612	1652
+Itapiranga		Eduardo Parintins de Souza	Filho(a)		Masculino		4			Não alfabetizado	Não																																								4612	1652
+Itapiranga		Francinildo Rodrigues Leite	Cônjuge		Masculino		31			Ensino Médio Incompleto	Não																																								4612	1653
+Itapiranga		Lídia Teles Leite	Filho(a)		Feminino		11			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1653
+Itapiranga		Franciele Teles Leite	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																								4612	1653
+Itapiranga		Fabrício Teles Leite	Filho(a)		Masculino		8			Ensino Fundamental Incompleto	Não																																								4612	1653
+Itapiranga		Leonildo Teles Leite	Filho(a)		Masculino		6			Ensino Fundamental Incompleto	Não																																								4612	1653
+Itapiranga		Manuel Vieira Coelho Filho	Cônjuge		Masculino		43			Ensino Médio Completo	Não																																								4612	1654
+Itapiranga		Marcell Gonçalves Coelho	Filho(a)		Masculino		12			Ensino Fundamental Incompleto	Não																																								4612	1654
+Itapiranga		Larissa Gonçalves Coelho	Filho(a)		Feminino		10			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1654
+Itapiranga		Mizael Gonçalves Coelho	Filho(a)		Masculino		4			Não alfabetizado	Não																																								4612	1654
+Itapiranga		Maria Lucineide Rodrigues Miranda	Cônjuge		Feminino		50			Ensino Fundamental Incompleto	Não																																								4612	1655
+Itapiranga		Jadson Miranda Leite	Filho(a)		Masculino		15			Ensino Fundamental Incompleto	Não																																								4612	1655
+Itapiranga		Jamilly Miranda Leite	Filho(a)		Feminino		13			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1655
+Itapiranga		Rodney Miranda Leite	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																								4612	1655
+Itapiranga		Jakson Rodrigues Ramos	Cônjuge		Masculino		27			Ensino Médio Completo	Não																																								4612	1656
+Itapiranga		Janderson da Silva Leite	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																								4612	1656
+Itapiranga		James Leite Ramos	Filho(a)		Masculino		8			Ensino Fundamental Incompleto	Não																																								4612	1656
+Itapiranga		Kaio Gabriel Ramos Leite	Filho(a)		Masculino		5			Não alfabetizado	Não																																								4612	1656
+Itapiranga		Bernardo Ramos Leite	Filho(a)		Masculino		3			Não alfabetizado	Não																																								4612	1656
+Itapiranga		Maria Vitória Ramos Leite	Filho(a)		Feminino		1			Não alfabetizado	Não																																								4612	1656
+Itapiranga		Joel Santana da Silva	Cônjuge		Masculino		28			Ensino Médio Incompleto	Não																																								4612	1657
+Itapiranga		Luiz Fernando Silva Leite	Filho(a)		Masculino		10			Ensino Médio Incompleto	Não																																								4612	1657
+Itapiranga		Joelbson da Silva Silva	Filho(a)		Masculino		6			Ensino Fundamental Incompleto	Não																																								4612	1657
+Itapiranga		Joab Silva da Silva	Filho(a)		Masculino		3			Não alfabetizado	Não																																								4612	1657
+Itapiranga		Joyce Layana da Silva Silva	Filho(a)		Feminino		0			Não alfabetizado	Não																																								4612	1657
+Itapiranga		Elineu Vital Furtado	Cônjuge		Masculino		41			Ensino Fundamental Incompleto	Não																																								4612	1658
+Itapiranga		Samuel dos Santos Furtado	Filho(a)		Masculino		7			Ensino Fundamental Incompleto	Não																																								4612	1658
+Itapiranga		Leonel dos Santos Furtado	Filho(a)		Masculino		5			Não alfabetizado	Não																																								4612	1658
+Itapiranga		Vanessa Guedes Serrão	Filho(a)		Feminino		15			Ensino Médio Incompleto	Não																												Não	Não											4612	1659
+Itapiranga		Juliana Guedes Serrão	Filho(a)		Feminino		14			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1659
+Itapiranga		Alessandra Guedes Serrão	Filho(a)		Feminino		12			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1659
+Itapiranga		Luane Guedes Serrão	Filho(a)		Feminino		8			Ensino Fundamental Incompleto	Não																																								4612	1659
+Itapiranga		Jessica Guedes Serrão	Filho(a)		Feminino		5			Não alfabetizado	Não																																								4612	1659
+Itapiranga		Guilherme Guedes Serrão	Filho(a)		Masculino		2			Não alfabetizado	Não																																								4612	1659
+Itapiranga		Raquel Souza de Jesus	Filho(a)		Feminino		17			Ensino Médio Incompleto	Não																												Sim	Não											4612	1660
+Itapiranga		Everton Mendonça Leite	Outro	Genro	Masculino		19			Ensino Médio Completo	Não																																								4612	1660
+Itapiranga		Tiago Souza de Jesus	Filho(a)		Masculino		16			Ensino Médio Incompleto	Não																																								4612	1660
+Itapiranga		Josafá Souza de Jesus	Filho(a)		Masculino		13			Ensino Fundamental Incompleto	Não																																								4612	1660
+Itapiranga		Gabriel Souza de Jesus	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																								4612	1660
+Itapiranga		Raimundo Chaves Santana	Cônjuge		Masculino		41			Ensino Fundamental Incompleto	Não																																								4612	1661
+Itapiranga		Paula Rayssa Carvalho Santana	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																								4612	1661
+Itapiranga		Paula Rayane Carvalho Santana	Filho(a)		Feminino		7			Ensino Fundamental Incompleto	Não																																								4612	1661
+Itapiranga		Renan Miguel Carvalho Santana	Filho(a)		Masculino		1			Não alfabetizado	Não																																								4612	1661
+Itapiranga		Sebastião Nogueira de Souza	Cônjuge		Masculino		54			Ensino Médio Completo	Não																																								4612	1662
+Itapiranga		Cristiane Santos Ferreira	Outro	Nora	Feminino		29			Ensino Fundamental Incompleto	Não																																								4612	1662
+Itapiranga		Rogério Frota de Souza	Filho(a)		Masculino		29			Ensino Médio Incompleto	Não																																								4612	1662
+Itapiranga		Ronaldo Frota de Souza	Neto(a)		Masculino		12			Não alfabetizado	Sim	Deficiência celebral																																							4612	1662
+Itapiranga		Nayra Raquely da Costa Frota de Souza	Neto(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																								4612	1662
+Itapiranga		Rayssa Santos Silva	Neto(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																								4612	1662
+Itapiranga		Mara Rayane Conceição de Souza	Neto(a)		Feminino		6			Não alfabetizado	Não																																								4612	1662
+Itapiranga		Rithily Ferreira de Souza	Neto(a)		Masculino		5			Não alfabetizado	Não																																								4612	1662
+Itapiranga		Tamar Raylane Frota de Souza	Neto(a)		Feminino		5			Não alfabetizado	Não																																								4612	1662
+Itapiranga		Michelly Ferreira de Souza	Neto(a)		Feminino		4			Não alfabetizado	Não																																								4612	1662
+Itapiranga		Riquelme Ferreira de Souza	Neto(a)		Masculino		2			Não alfabetizado	Não																																								4612	1662
+Itapiranga		Reisla Ferreira de Souza	Neto(a)		Feminino		1			Não alfabetizado	Não																																								4612	1662
+Itapiranga		Katricia Monteiro de Souza	Cônjuge		Feminino		15			Ensino Fundamental Incompleto	Não																												Não	Sim	1										4612	1663
+Itapiranga		Eudilene Chaves de Souza	Cônjuge		Feminino		21			Ensino Médio Incompleto	Não																																								4612	1664
+Itapiranga		Akila Beatriz de Souza Rodrigues	Filho(a)		Feminino		7			Alfabetizado	Não																																								4612	1664
+Itapiranga		Isadora Bianca de Souza Rodrigues	Filho(a)		Feminino		2			Não alfabetizado	Não																																								4612	1664
+Itapiranga		Rosilene dos Santos Guedes 	Filho(a)		Feminino		11			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1665
+Itapiranga		Marilene Barros Moraes	Cônjuge		Feminino		52			Ensino Médio Incompleto	Não																																								4612	1666
+Itapiranga		Vanderlei Barros Moraes	Filho(a)		Feminino		13			Ensino Médio Incompleto	Não																												Não	Não											4612	1666
+Itapiranga		Marivana Barros Moraes	Filho(a)		Masculino		10			Ensino Fundamental Incompleto	Não																																								4612	1666
+Itapiranga		David de Melo Pinto	Cônjuge		Masculino		30			Ensino Médio Completo	Não																																								4612	1667
+Itapiranga		Vanderlene Moraes Pinto	Filho(a)		Feminino		11			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1667
+Itapiranga		Ronald Moraes Pinto	Filho(a)		Masculino		9			Ensino Fundamental Incompleto	Não																																								4612	1667
+Itapiranga		Otomar Ramos Pinto	Cônjuge		Masculino		65			Ensino Fundamental Incompleto	Não																																								4612	1668
+Itapiranga		Orielton Barros Pinto	Filho(a)		Masculino		36			Ensino Médio Completo	Não																																								4612	1668
+Itapiranga		Welinton Vasconcelos Pinto	Neto(a)		Masculino		10			Ensino Fundamental Incompleto	Não																																								4612	1668
+Itapiranga		Guilherme Vasconcelos Pinto	Neto(a)		Masculino		7			Ensino Fundamental Incompleto	Não																																								4612	1668
+Itapiranga		Taylana Barros Gama	Filho(a)		Feminino		12			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1669
+Itapiranga		Tarleson Barros Gama	Filho(a)		Masculino		10			Ensino Fundamental Incompleto	Não																																								4612	1669
+Itapiranga		Tamyres Barros Gama	Filho(a)		Feminino		7			Não alfabetizado	Não																																								4612	1669
+Itapiranga		Thays Paula Barros Gama	Filho(a)		Feminino		3			Não alfabetizado	Não																																								4612	1669
+Itapiranga		Micilene da Costa Barros	Cônjuge		Feminino		36			Ensino Médio Completo	Não																																								4612	1670
+Itapiranga		Mirclei da Costa Barros	Filho(a)		Feminino		18			Ensino Médio Completo	Não																																								4612	1670
+Itapiranga		Keliane Barros de Souza	Filho(a)		Feminino		15			Ensino Médio Incompleto	Não																												Não	Não											4612	1670
+Itapiranga		Jeovana Barros de Souza	Filho(a)		Feminino		12			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1670
+Itapiranga		Felipe Barros de Souza	Filho(a)		Masculino		7			Não alfabetizado	Não																																								4612	1670
+Itapiranga		Joílson Barros de Souza	Filho(a)		Masculino		9			Ensino Fundamental Incompleto	Não																																								4612	1670
+Itapiranga		Antenor Rodrigues Barros Filho	Cônjuge		Masculino		44			Ensino Fundamental Incompleto	Não																																								4612	1671
+Itapiranga		Aleilson da Costa Rodrigues	Filho(a)		Masculino		16			Ensino Médio Incompleto	Não																																								4612	1671
+Itapiranga		Alexandre Diego da Costa Rodrigues	Filho(a)		Masculino		14			Ensino Fundamental Completo	Não																																								4612	1671
+Itapiranga		Lara Eloá Rodrigues Bruno	Neto(a)		Feminino		1			Não alfabetizado	Não																																								4612	1671
+Itapiranga		João Bosco Chaves Barros	Cônjuge		Masculino		56			Ensino Fundamental Incompleto	Não																																								4612	1672
+Itapiranga		Gibson Pinto Barros	Filho(a)		Masculino		26			Ensino Médio Completo	Não																																								4612	1672
+Itapiranga		João Bosco Chaves Barros Filho	Filho(a)		Masculino		21			Ensino Médio Completo	Não																																								4612	1672
+Itapiranga		Richardson Pinto Barros	Filho(a)		Masculino		18			Ensino Médio Incompleto	Não																																								4612	1672
+Itapiranga		Joygleson Pinto Barros	Filho(a)		Masculino		16			Ensino Médio Incompleto	Não																																								4612	1672
+Itapiranga		Neyliane Pinto Barros	Filho(a)		Feminino		13			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1672
+Itapiranga		Emily Pinto Barros	Neto(a)		Feminino		10			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1672
+Itapiranga		Clelio da Mata Mendonça	Cônjuge		Masculino		45			Ensino Fundamental Incompleto	Não																																								4612	1673
+Itapiranga		Aldenise Barros Mendonça	Filho(a)		Feminino		16			Ensino Médio Incompleto	Não																												Não	Não											4612	1673
+Itapiranga		Epitácio Ramos de Mendonça Neto	Filho(a)		Masculino		18			Ensino Médio Completo	Não																																								4612	1673
+Itapiranga		Clemilton Barros Mendonça	Filho(a)		Masculino		15			Ensino Fundamental Incompleto	Não																																								4612	1673
+Itapiranga		Clenilton Barros Mendonça	Filho(a)		Masculino		12			Ensino Fundamental Incompleto	Não																																								4612	1673
+Itapiranga		Angelica Barros Mendonça	Filho(a)		Feminino		10			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1673
+Itapiranga		Isabela Barros Mendonça	Filho(a)		Feminino		6			Não alfabetizado	Não																																								4612	1673
+Itapiranga		Yure Marinho Neves	Cônjuge		Masculino		20			Ensino Médio Incompleto	Não																																								4612	1674
+Itapiranga		Clicia Barros Dias	Filho(a)		Feminino		14			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1674
+Itapiranga		Adauam Barros da Silva	Filho(a)		Masculino		9			Ensino Fundamental Incompleto	Não																																								4612	1674
+Itapiranga		Amily Barros da Silva	Filho(a)		Feminino		5			Alfabetizado	Não																																								4612	1674
+Itapiranga		Yure Henrique Barros Marinho	Filho(a)		Masculino		2			Não alfabetizado	Não																																								4612	1674
+Itapiranga		Thiarlem Costa Melo	Cônjuge		Masculino		23			Ensino Médio Incompleto	Não																																								4612	1675
+Itapiranga		Charliane Reis de Oliveira 	Filho(a)		Feminino		14			Ensino Fundamental Completo	Não																												Não	Não											4612	1675
+Itapiranga		Isabelle Reis de Oliveira 	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Sim	Autismo. 1,8 da doença. 																																							4612	1675
+Itapiranga		Rodrigo Frota de Souza 	Cônjuge		Masculino		27			Ensino Médio Completo	Não																																								4612	1676
+Itapiranga		Milgrid Jihane Coutinho da Silva 	Filho(a)		Feminino		15			Ensino Médio Incompleto	Não																												Não	Não											4612	1676
+Itapiranga		Romeu Miller Coutinho de Souza 	Filho(a)		Feminino		3			Não alfabetizado	Não																																								4612	1676
+Itapiranga		Lucicleia Chaves Santana	Cônjuge		Feminino		35			Ensino Médio Incompleto	Não																																								4612	1677
+Itapiranga		Geisel Santana de Souza 	Filho(a)		Masculino		17			Ensino Médio Incompleto	Não																																								4612	1677
+Itapiranga		Osiel Santana de Souza 	Filho(a)		Masculino		15			Ensino Fundamental Incompleto	Não																																								4612	1677
+Itapiranga		Luciane Santana de Souza 	Filho(a)		Feminino		13			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1677
+Itapiranga		Luciana Santana de Souza 	Filho(a)		Feminino		11			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1677
+Itapiranga		Edson de Castro Rodrigues 	Cônjuge		Masculino		40			Ensino Fundamental Incompleto	Não																																								4612	1678
+Itapiranga		Fernanda da Costa Rodrigues 	Filho(a)		Feminino		18			Ensino Médio Incompleto	Não																																								4612	1678
+Itapiranga		Geovana nalanda Costa cruz	Filho(a)		Feminino		14			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1678
+Itapiranga		Eloani da Costa Rodrigues 	Filho(a)		Feminino		12			Ensino Fundamental Completo	Não																												Não	Não											4612	1678
+Itapiranga		Naila Olivia Cabral da costa	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																								4612	1678
+Itapiranga		Edson expedito da Costa Rodrigues 	Filho(a)		Masculino		0			Não alfabetizado	Não																																								4612	1678
+Itapiranga		Fabrício Silva dos Santos 	Filho(a)		Masculino		16			Ensino Médio Incompleto	Não																																								4612	1679
+Itapiranga		Leandro Silva de Carvalho 	Filho(a)		Masculino		12			Ensino Fundamental Incompleto	Não																																								4612	1679
+Itapiranga		Letícia Souza de Carvalho 	Filho(a)		Feminino		18			Ensino Médio Incompleto	Não																																								4612	1679
+Itapiranga		Eduardo Souza de Carvalho 	Filho(a)		Masculino		20			Ensino Médio Incompleto	Não																																								4612	1679
+Itapiranga		Ana Beatriz Carvalho de Almeida 	Neto(a)		Feminino		0			Não alfabetizado	Não																																								4612	1679
+Itapiranga		Janeo  Mafra Correia 	Cônjuge		Masculino		43			Ensino Médio Incompleto	Não																																								4612	1680
+Itapiranga		Karen Cristine Gama Correia 	Filho(a)		Feminino		8			Ensino Fundamental Incompleto	Não																																								4612	1680
+Itapiranga		Luane Gama Correia 	Filho(a)		Feminino		7			Ensino Fundamental Incompleto	Não																																								4612	1680
+Itapiranga		Ágata wynne Cabral Gama 	Filho(a)		Feminino		12			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1680
+Itapiranga		Manoel lorival gama quintino 	Cônjuge		Masculino		33			Ensino Médio Completo	Não																																								4612	1681
+Itapiranga		Diego emanuel amazonas	Outro	Sobrinho	Masculino		11			Ensino Fundamental Incompleto	Não																																								4612	1681
+Itapiranga		Reyna andrade da costa 	Filho(a)		Feminino		18			Ensino Médio Incompleto	Não																																								4612	1682
+Itapiranga		Anailson Souza de Almeida 	Outro	Genro	Masculino		18			Ensino Médio Incompleto	Não																																								4612	1682
+Itapiranga		Antônio jucimar Cabral da costa 	Cônjuge		Masculino		43			Ensino Médio Incompleto	Não																																								4612	1682
+Itapiranga		Lívia Andrade da Costa 	Filho(a)		Masculino		16			Ensino Médio Incompleto	Não																																								4612	1682
+Itapiranga		Analu Raylla Andrade de Almeida 	Neto(a)		Feminino		0			Não alfabetizado	Não																																								4612	1682
+Itapiranga		Ednamar Costa Ribeiro 	Cônjuge		Masculino		48			Ensino Fundamental Incompleto	Não																																								4612	1683
+Itapiranga		Eulison de Matos Ribeiro 	Filho(a)		Masculino		15			Ensino Médio Incompleto	Não																																								4612	1683
+Itapiranga		Eugleson de Matos Ribeiro 	Filho(a)		Masculino		13			Ensino Fundamental Incompleto	Não																																								4612	1683
+Itapiranga		Luciane de Matos Ribeiro 	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																								4612	1683
+Itapiranga		Letícia de Matos Ribeiro 	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																								4612	1683
+Itapiranga		Francisco Xavier Costa de Almeida	Cônjuge		Masculino		41			Ensino Fundamental Incompleto	Não																																								4612	1684
+Itapiranga		Vanessa Silva de Almeida	Filho(a)		Feminino		17			Ensino Médio Incompleto	Não																												Não	Não											4612	1684
+Itapiranga		Otaciano Neto Silva de Almeida	Filho(a)		Masculino		15			Ensino Fundamental Incompleto	Não																																								4612	1684
+Itapiranga		Artemiza Silva de Almeida	Filho(a)		Feminino		11			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1684
+Itapiranga		Artur Costa de Almeida 	Cônjuge		Masculino		38			Ensino Fundamental Incompleto	Não																																								4612	1685
+Itapiranga		Gisele da Silva Almeida 	Filho(a)		Masculino		13			Ensino Fundamental Incompleto	Não																																								4612	1685
+Itapiranga		Gabriele da Silva Almeida 	Filho(a)		Feminino		6			Ensino Fundamental Incompleto	Não																																								4612	1685
+Itapiranga		Everton Barros de Almeida 	Filho(a)		Masculino		16			Ensino Fundamental Incompleto	Não																																								4612	1686
+Itapiranga		Eduardo Barros de Almeida 	Filho(a)		Masculino		17			Ensino Médio Incompleto	Não																																								4612	1686
+Itapiranga		Alessandro Neves Barros 	Irmão(ã)		Masculino		22			Ensino Médio Completo	Não																																								4612	1686
+Itapiranga		Yamile Coelho dos Anjos 	Cônjuge		Feminino		31			Ensino Médio Completo	Não																																								4612	1687
+Itapiranga		Nadson Ferreira de Souza 	Cônjuge		Masculino		36			Ensino Fundamental Incompleto	Não																																								4612	1687
+Itapiranga		Ítalo dos Anjos de Souza 	Filho(a)		Masculino		13			Ensino Fundamental Incompleto	Não																																								4612	1687
+Itapiranga		Willian dos anjos de Souza 	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																								4612	1687
+Itapiranga		Igor dos anjos de Souza 	Filho(a)		Masculino		9			Ensino Fundamental Incompleto	Não																																								4612	1687
+Itapiranga		Ana paula Pinto Félix 	Cônjuge		Feminino		35			Ensino Médio Completo	Não																																								4612	1688
+Itapiranga		Marcos Serrão de Castro 	Cônjuge		Masculino		33			Ensino Fundamental Incompleto	Não																																								4612	1688
+Itapiranga		Ana emanuelly Félix de Castro 	Filho(a)		Feminino		13			Ensino Fundamental Incompleto	Sim	Hipotirodismo																											Não	Não											4612	1688
+Itapiranga		Manoel Garcia Gama 	Cônjuge		Masculino		52			Ensino Fundamental Incompleto	Não																																								4612	1689
+Itapiranga		Mayara Santos Gama 	Filho(a)		Feminino		20			Ensino Médio Incompleto	Não																																								4612	1689
+Itapiranga		Marineide Paola Santos Gama 	Filho(a)		Feminino		19			Ensino Médio Completo	Não																																								4612	1689
+Itapiranga		Irene Santos Gama 	Filho(a)		Feminino		17			Ensino Médio Incompleto	Não																												Não	Não											4612	1689
+Itapiranga		Jomara da Silva Santos 	Cônjuge		Feminino		34			Ensino Médio Completo	Não																																								4612	1689
+Itapiranga		Joicy Santos Gama  	Filho(a)		Feminino		15			Ensino Médio Incompleto	Não																																								4612	1689
+Itapiranga		Camila Santos Gama 	Filho(a)		Feminino		11			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1689
+Itapiranga		Jhennyfe eloah Gama nogueira	Filho(a)		Feminino		0			Não alfabetizado	Não																																								4612	1689
+Itapiranga		Gideane Vitória Sá da Silva 	Filho(a)		Feminino		13			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1690
+Itapiranga		Geana Clara Sá da Silva Pereira 	Filho(a)		Feminino		10			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1690
+Itapiranga		Jocinete Miranda Nunes 	Cônjuge		Feminino		41			Ensino Fundamental Incompleto	Não																																								4612	1691
+Itapiranga		Thiago Moraes dos Santos 	Cônjuge		Masculino		33			Ensino Médio Incompleto	Não																																								4612	1691
+Itapiranga		Iranilson Nunes da Silva 	Filho(a)		Masculino		16			Ensino Fundamental Incompleto	Não																																								4612	1691
+Itapiranga		Jovenilson Nunes da Silva 	Filho(a)		Masculino		14			Ensino Fundamental Incompleto	Não																																								4612	1691
+Itapiranga		Deisiane Nunes da Silva 	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																								4612	1691
+Itapiranga		Ycaro Guilherme Nunes dos Santos 	Filho(a)		Masculino		5			Não alfabetizado	Sim	Doença crônica no intestino																																							4612	1691
+Itapiranga		Regina Gabriela Nunes dos Santos 	Filho(a)		Feminino		4			Não alfabetizado	Não																																								4612	1691
+Itapiranga		Nicoli Nunes dos Santos 	Filho(a)		Feminino		0			Não alfabetizado	Não																																								4612	1691
+Itapiranga		Gracilene Preste Amazonas 	Cônjuge		Feminino		36			Ensino Médio Completo	Não																																								4612	1692
+Itapiranga		Claudeane da Silva leal	Cônjuge		Masculino		42			Ensino Fundamental Incompleto	Não																																								4612	1692
+Itapiranga		Reynna Amazonas Leal 	Filho(a)		Feminino		12			Ensino Médio Incompleto	Não																												Não	Não											4612	1692
+Itapiranga		Stefhany Alice Amazonas Leal 	Filho(a)		Feminino		8			Ensino Fundamental Incompleto	Não																																								4612	1692
+Itapiranga		Ana Alice Amazonas Leal 	Filho(a)		Feminino		0			Não alfabetizado	Não																																								4612	1692
+Itapiranga		Valdilene Gomes Maia Gama 	Cônjuge		Feminino		32			Ensino Médio Incompleto	Não																																								4612	1693
+Itapiranga		Carlos Alberto Miranda Lyra 	Cônjuge		Masculino		36			Ensino Médio Incompleto	Não																																								4612	1693
+Itapiranga		Carlos Jair Maia gama	Filho(a)		Masculino		9			Ensino Médio Incompleto	Não																																								4612	1693
+Itapiranga		Ketlen Vitória Maia Gama 	Filho(a)		Feminino		5			Não alfabetizado	Não																																								4612	1693
+Itapiranga		Casiane Vanessa Maia Gama 	Filho(a)		Feminino		0			Não alfabetizado	Não																																								4612	1693
+Itapiranga		Maria Suely Silva de Almeida	Cônjuge		Feminino		45			Ensino Médio Completo	Não																																								4612	1694
+Itapiranga		José Luiz Alves de Almeida	Cônjuge		Masculino		45			Ensino Médio Completo	Não																																								4612	1694
+Itapiranga		Marcos Vinicius Silva de Almeida	Filho(a)		Masculino		15			Ensino Médio Incompleto	Não																																								4612	1694
+Itapiranga		José Luiz Silva de Almeida	Filho(a)		Masculino		7			Ensino Fundamental Incompleto	Não																																								4612	1694
+Itapiranga		Ana Fátima Silva de Almeida	Filho(a)		Feminino		5			Não alfabetizado	Não																																								4612	1694
+Itapiranga		Jordana Caroline Barbosa  Martins 	Filho(a)		Feminino		19			Ensino Médio Completo	Não																																								4612	1695
+Itapiranga		Lucio de Souza Barbosa Neto 	Filho(a)		Masculino		18			Ensino Médio Incompleto	Não																																								4612	1695
+Itapiranga		Cássio Adriano Barbosa Martins 	Filho(a)		Masculino		16			Ensino Médio Incompleto	Não																																								4612	1695
+Itapiranga		Maria de Jesus Ferreira de Sá 	Cônjuge		Feminino		34			Ensino Médio Completo	Não																																								4612	1696
+Itapiranga		Nixon dos Santos Seixas 	Cônjuge		Masculino		45			Ensino Superior Completo	Não																																								4612	1696
+Itapiranga		Estefane Paula Sá Seixas 	Filho(a)		Feminino		19			Ensino Médio Completo	Não																																								4612	1696
+Itapiranga		Joh marglesson Sá Seixas 	Filho(a)		Masculino		18			Ensino Médio Incompleto	Não																																								4612	1696
+Itapiranga		Marien sahado Sá Seixas 	Filho(a)		Masculino		17			Ensino Médio Incompleto	Não																																								4612	1696
+Itapiranga		Nicolay Nixon Sá Seixas 	Filho(a)		Masculino		15			Ensino Fundamental Incompleto	Não																																								4612	1696
+Itapiranga		Anthony Joseph Sá Seixas 	Filho(a)		Masculino		15			Ensino Fundamental Incompleto	Não																																								4612	1696
+Itapiranga		Yan Mitchell de Sá Seixas 	Filho(a)		Masculino		12			Ensino Fundamental Incompleto	Não																																								4612	1696
+Itapiranga		José Maria Farias Amazonas 	Cônjuge		Masculino		49			Ensino Fundamental Incompleto	Não																																								4612	1697
+Itapiranga		Lázaro Augusto de Souza Amazonas 	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																								4612	1697
+Itapiranga		Luiz Henrique de Souza Amazonas 	Filho(a)		Masculino		4			Não alfabetizado	Não																																								4612	1697
+Itapiranga		Orejane Nunes de Carvalho 	Cônjuge		Masculino		51			Ensino Fundamental Incompleto	Não																																								4612	1698
+Itapiranga		Tatiane da Silva Carvalho 	Filho(a)		Masculino		23			Ensino Médio Incompleto	Não																																								4612	1698
+Itapiranga		Victor Gabriel da Silva Carvalho 	Neto(a)		Masculino		3			Não alfabetizado	Não																																								4612	1698
+Itapiranga		Leonira Santos Moraes 	Filho(a)		Feminino		18			Ensino Médio Incompleto	Não																																								4612	1699
+Itapiranga		Leonilson Santos Moraes 	Filho(a)		Masculino		16			Ensino Médio Incompleto	Não																																								4612	1699
+Itapiranga		Roberto Pereira Lavareda	Cônjuge		Masculino		45			Ensino Médio Incompleto	Sim	Doença crônica 																																							4612	1700
+Itapiranga		Franciele Roberta Souza Lavareda	Filho(a)		Feminino		6			Ensino Fundamental Incompleto	Não																																								4612	1700
+Itapiranga		José Divá Lima dos Santos 	Cônjuge		Masculino		58			Ensino Fundamental Incompleto	Não																																								4612	1701
+Itapiranga		Nádja Fernanda dos Santos Matos 	Filho(a)		Feminino		12			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1701
+Itapiranga		Estêvão Simão dos Santos Matos	Filho(a)		Masculino		10			Ensino Fundamental Incompleto	Não																																								4612	1701
+Itapiranga		Albega de Souza Ferreira Viana 	Cônjuge		Feminino		43			Ensino Fundamental Completo	Não																																								4612	1702
+Itapiranga		Ramiro Júnior Ferreira Bruno 	Outro	Enteado	Masculino		18			Ensino Médio Incompleto	Não																																								4612	1702
+Itapiranga		José Roberto de Queiroz Pereira 	Cônjuge		Masculino		55			Ensino Fundamental Incompleto	Não																																								4612	1703
+Itapiranga		Ana Roberta de Oliveira Pereira 	Filho(a)		Feminino		12			Ensino Fundamental Incompleto	Não																												Não	Não											4612	1703
+Itapiranga		José Roberto de Oliveira Pereira 	Filho(a)		Masculino		8			Ensino Fundamental Incompleto	Não																																								4612	1703
+Itapiranga		Maria Clara de Oliveira Pereira 	Filho(a)		Feminino		9			Ensino Fundamental Incompleto	Não																																								4612	1703
+Itapiranga		Omira de Souza Ferreira 	Cônjuge		Feminino		44			Ensino Médio Completo	Não																																								4612	1704
+Itapiranga		Eliene Ferreira do Nascimento 	Filho(a)		Feminino		18			Ensino Médio Completo	Não																																								4612	1704
+Itapiranga		Ellen Raysa Ferreira do Nascimento 	Filho(a)		Feminino		15			Ensino Médio Incompleto	Não																												Não	Não											4612	1704
+Itapiranga		Anderson Ferreira do Nascimento 	Filho(a)		Masculino		23			Ensino Médio Completo	Não																																								4612	1704
+Itapiranga		Izaldo Jesus do Nascimento 	Cônjuge		Masculino		72			Alfabetizado	Não																																								4612	1704
+Itapiranga		Elidiane Silva da Costa 	Cônjuge		Feminino		24			Ensino Médio Completo	Não																																								4612	1705
+Itapiranga		Willian da Silva Leal 	Cônjuge		Masculino		27			Ensino Fundamental Completo	Não																																								4612	1705
+Itapiranga		Angelina Lorrayne Silvia Leal 	Filho(a)		Feminino		4			Não alfabetizado	Não																																								4612	1705
+Itapiranga		Geomara Teles Farias 	Cônjuge		Feminino		35			Ensino Fundamental Incompleto	Não																																								4612	1706
+Itapiranga		Mauro Alberico Borges de Sales 	Cônjuge		Masculino		52			Ensino Médio Completo	Sim	Amputação de um dedo das mãos 																																							4612	1706
+Itapiranga		Maurício Victor Farias  Borges 	Filho(a)		Masculino		18			Ensino Médio Completo	Não																																								4612	1706
+Itapiranga		Odelia Borges do Carmo Neto 	Filho(a)		Feminino		16			Ensino Médio Incompleto	Não																												Não	Não											4612	1706
+Itapiranga		Antônia Souza da Silva 	Cônjuge		Feminino		58			Ensino Fundamental Incompleto	Não																																								4612	1707
+Itapiranga		Ely Pereira da Silva 	Filho(a)		Masculino		29			Ensino Fundamental Incompleto	Não																																								4612	1707
+Itapiranga		Miguel Salomão Teixeira Martins 	Outro	Bisneto	Masculino		3			Não alfabetizado	Não																																								4612	1707
+Itapiranga		Sofia Teixeira 	Outro	Bisneto	Feminino		1			Não alfabetizado	Não																																								4612	1707
+Itapiranga		Léia Cristina da Silva Teixeira	Neto(a)		Feminino		17			Ensino Médio Incompleto	Não																												Não	Sim	1										4612	1707
+Itapiranga		Sionete de Souza Oliveira 	Cônjuge		Feminino		37			Ensino Médio Incompleto	Não																																								4612	1708
+Itapiranga		Sionete de Souza Oliveira 	Cônjuge		Feminino		37			Ensino Médio Incompleto	Não																																								4612	1708
+Itapiranga		Nelson Monteiro de Sales 	Cônjuge		Masculino		37			Ensino Médio Incompleto	Não																																								4612	1708
+Itapiranga		Nilson Oliveira de Sales 	Filho(a)		Masculino		17			Ensino Médio Incompleto	Não																																								4612	1708
+Itapiranga		Karine Oliveira de Sales 	Filho(a)		Feminino		14			Ensino Médio Incompleto	Não																												Não	Não											4612	1708
+Itapiranga		Ana célia Bruna de Carvalho 	Mãe		Feminino		33			Ensino Médio Incompleto	Não																																								4612	1709
+Itapiranga		Naely Bruna de Carvalho 	Filho(a)		Feminino		16			Ensino Médio Incompleto	Não																												Não	Não											4612	1709
+Itapiranga		Jordan Carvalho de Andrade 	Filho(a)		Masculino		14			Ensino Médio Incompleto	Não																																								4612	1709
+Itapiranga		Josie Carvalho de Andrade 	Filho(a)		Masculino		8			Ensino Fundamental Incompleto	Sim	Física dedo do pé e mão amputados																																							4612	1709
+Itapiranga		Marciley Farias Viana 	Cônjuge		Feminino		37			Ensino Médio Incompleto	Não																																								4612	1710
+Itapiranga		Valdenor de Souza Monteiro 	Cônjuge		Masculino		34			Ensino Médio Incompleto	Não																																								4612	1710
+Itapiranga		Eduardo Viana jeffreyson 	Filho(a)		Masculino		17			Ensino Médio Incompleto	Não																																								4612	1710
+Itapiranga		Izaquel Viana Monteiro 	Filho(a)		Masculino		13			Ensino Fundamental Incompleto	Não																																								4612	1710
+Itapiranga		Elizama Viana Monteiro 	Filho(a)		Masculino		2			Ensino Fundamental Incompleto	Não																																								4612	1710
+Itapiranga		Anete Queiroz de Souza 	Cônjuge		Feminino		47			Ensino Fundamental Incompleto	Não																																								4612	1711
+Itapiranga		Amarildo Costa de Almeida 	Cônjuge		Masculino		50			Ensino Fundamental Incompleto	Não																																								4612	1711
+Itapiranga		Antônio Souza de Almeida 	Filho(a)		Masculino		15			Ensino Médio Incompleto	Sim	Deficiência física: braço quebrado																																							4612	1711
+Itapiranga		Luan Souza de Almeida 	Filho(a)		Masculino		12			Ensino Médio Incompleto	Não																																								4612	1711
+Itapiranga		Ariel Almeida dos Santos 	Neto(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																								4612	1711
+Itapiranga		Luane Souza de Almeida 	Filho(a)		Feminino		4			Não alfabetizado	Não																																								4612	1711
+Itapiranga		Raimundo Iranildo Fernandes da Costa 	Cônjuge		Masculino		50			Ensino Fundamental Incompleto	Não																																								4612	1712
+Itapiranga		Amina Lúcia Rosas Tavares 	Cônjuge		Feminino		48			Ensino Fundamental Incompleto	Sim	Auditiva																																							4612	1712
+Itapiranga		Gabriel Silva de Abreu 	Outro	Sobrinho 	Masculino		12			Ensino Fundamental Incompleto	Não																																								4612	1712
+Itapiranga		Simone Lopes Fernandes 	Cônjuge		Feminino		31			Ensino Médio Completo	Não																																								4612	1713
+Itapiranga		Elielson Carvalho Fonseca 	Cônjuge		Masculino		33			Ensino Médio Incompleto	Não																																								4612	1713
+Itapiranga		Evelin Fernandes Fonseca 	Filho(a)		Feminino		12			Ensino Médio Incompleto	Não																												Não	Não											4612	1713
+Itapiranga		Everton Fernandes Fonseca 	Filho(a)		Masculino		10			Ensino Fundamental Incompleto	Não																																								4612	1713
+Itapiranga		Ederson Gabriel Fernandes Fonseca 	Filho(a)		Masculino		6			Ensino Fundamental Incompleto	Não																																								4612	1713
+Itapiranga		Erison Levy Fernandes Fonseca 	Filho(a)		Masculino		1			Não alfabetizado	Não																																								4612	1713
+Itapiranga		Enderlyn suiane Fernandes Fonseca 	Filho(a)		Masculino		6			Ensino Fundamental Incompleto	Não																																								4612	1713
+Itapiranga		Terezinha Viana Trindade 	Cônjuge		Feminino		48			Ensino Fundamental Incompleto	Não																																								4612	1714
+Itapiranga		Carlos Augusto Barbosa de Souza 	Cônjuge		Masculino		52			Ensino Fundamental Incompleto	Não																																								4612	1714
+Itapiranga		Andreza Trindade de Souza 	Filho(a)		Feminino		14			Ensino Fundamental Completo	Não																												Não	Não											4612	1714
+Itapiranga		Igor Trindade de Souza 	Filho(a)		Masculino		11			Ensino Fundamental Incompleto	Não																																								4612	1714
+Itapiranga		Creuza de Jesus Guedes 	Cônjuge		Feminino		35			Ensino Médio Incompleto	Não																																								4612	1715
+Itapiranga		José Mário Neves de Almeida 	Cônjuge		Masculino		43			Ensino Médio Incompleto	Não																																								4612	1715
+Itapiranga		Mário Júnior Guedes de Almeida 	Filho(a)		Masculino		43			Ensino Médio Incompleto	Não																																								4612	1715
+Itapiranga		Mário Júnior Guedes de Almeida 	Filho(a)		Masculino		18			Ensino Médio Incompleto	Não																																								4612	1715
+Itapiranga		Creuziane Guedes de Almeida 	Filho(a)		Feminino		15			Ensino Médio Incompleto	Não																												Não	Não											4612	1715
+Itapiranga		Liedson Neves de Almeida 	Filho(a)		Masculino		12			Ensino Fundamental Incompleto	Não																																								4612	1715
+Itapiranga		Amaury Góes de Castro 	Cônjuge		Masculino		51			Ensino Fundamental Incompleto	Não																																								4612	1716
+Itapiranga		Katiane de Souza Mendonça 	Cônjuge		Feminino		40			Ensino Médio Incompleto	Não																																								4612	1716
+Itapiranga		Kelen Gabriele Souza de Castro 	Filho(a)		Feminino		17			Ensino Médio Incompleto	Não																												Não	Não											4612	1716
