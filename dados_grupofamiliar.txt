@@ -2427,13 +2427,12 @@ Carauari		Daniana dos Santos	Cônjuge		Feminino			Sim		Alfabetizado													
 Carauari		Kemilly dos Santos Nascimento	Filho		Feminino			Não		Não estudou																			1				0	0	0	0				Não		Nenhum									2447	755
 Carauari		Leonardo Nascimento	Filho		Masculino			Sim		Alfabetizado																			1				0	0	0	0				Não		Nenhum									2448	755
 Carauari		Antônio São Bento Pontes	Chefe da família		Masculino	1980-01-15	31	Sim		Alfabetizado																			1		1	1	1	1	0	0				Não		Nenhum									2449	756
-Carauari		Maria Lúcia Gomes dos santos	Cônjuge		Feminino	1984-10-26	27	Não		Alfabetizado																			1	0	1	1	1	1	0	0				Sim		Cigarro									2451	758
-Carauari		Marcos Antônio dos santos calixto	Filho		Masculino	2001-04-05	10	Sim		Alfabetizado		Sim	Nunca	1	1	1						0							1	0	1	1	0	0	0	0		Solteiro		Não		Nenhum	Sim	Música	1	0	0	0	0	0	2452	758
+Carauari		Maria Lúcia Gomes dos santos	Cônjuge		Feminino	26/10/1984	27	Não		Alfabetizado																			1	0	1	1	1	1	0	0				Sim		Cigarro									2451	758
+Carauari		Marcos Antônio dos santos calixto	Filho		Masculino	05/04/2001	10	Sim		Alfabetizado		Sim	Nunca	1	1	1						0							1	0	1	1	0	0	0	0		Solteiro		Não		Nenhum	Sim	Música	1	0	0	0	0	0	2452	758
 Carauari		Maria sebastiana calixto	Filho		Feminino	2003-01-20	8	Sim		Ensino Médio Incompleto		Sim	Nunca	1	0	0	1	0	1	0	1	0							1	0	0	1	0	0	0	0				Não		Nenhum	Sim	Música	1	0	0	0	0	0	2453	758
 Carauari		Antônia raimunda dossantos calixto	Filho		Feminino	2004-11-19	7	Sim		Alfabetizado		Sim	2 vezes	1	0	0	1	0	1	0	1	0							1	0	0	1	0	0	0	0				Não		Nenhum	Sim	Música	1	0	0	0	0	0	2454	758
 Carauari		Maria raimunda dos Santos calixto	Filho		Feminino	2007-01-24	4	Sim		Pré-escolar	0	Sim	2 vezes	0	0	1	0	1	1	0	1	0							1	0	0	1	0	0	0	0				Não		Nenhum	Sim	Música	1	0	0	0	0	0	2455	758
-Carauari		"Antônio Raimundo santos calixto
--"	Filho		Feminino	2010-11-01	1	Sim		Pré-escolar	0	Sim	Nunca	0	0	0	0	0	0	0	0	0							1	0	0	1	0	0	0	0				Não		Nenhum	Sim	Música	1	0	0	0	0	0	2456	758
+Carauari		Antônio Raimundo santos calixto	Filho		Feminino	2010-11-01	1	Sim		Pré-escolar	0	Sim	Nunca	0	0	0	0	0	0	0	0	0							1	0	0	1	0	0	0	0				Não		Nenhum	Sim	Música	1	0	0	0	0	0	2456	758
 Carauari		Maria angélica dos Santos calixto	Filho		Feminino	2012-08-06	0	Sim		Alfabetizado		Sim	Nunca	0	0	0	0	0	0	0	0	0							1	0	0	1	0	0	0	0				Não		Nenhum	Sim	Música	1	0	0	0	0	0	2457	758
 Carauari		Reinaldo Silva e Silva 	Cônjuge		Masculino	1990-10-12	21	Sim		Ensino Médio Incompleto																			1	0	1	1	1	1	0	0				Sim		Bebidas alcóolicas		Outros	0	0	0	0	0	1	2458	759
 Carauari		Beatriz calixto da silva 	Filho		Feminino	2016-08-16	4	Não	Não está na idade	Não estudou			Nunca	0	0	0	0	0	0	0	0	0							1	0	0	0	0	0	0	0				Não		Nenhum	Não								2459	759
