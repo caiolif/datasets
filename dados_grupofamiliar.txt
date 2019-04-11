@@ -2428,8 +2428,7 @@ Carauari		Kemilly dos Santos Nascimento	Filho		Feminino			Não		Não estudou				
 Carauari		Leonardo Nascimento	Filho		Masculino			Sim		Alfabetizado																			1				0	0	0	0				Não		Nenhum									2448	755
 Carauari		Antônio São Bento Pontes	Chefe da família		Masculino	1980-01-15	31	Sim		Alfabetizado																			1		1	1	1	1	0	0				Não		Nenhum									2449	756
 Carauari		"Maria Lúcia Gomes dos santos
-"	Cônjuge		Feminino	2012-10-26	0	Sim		Alfabetizado			Nunca																				0	0																	2450	757
-Carauari		Maria lucia	Cônjuge		Feminino	1984-10-26	27	Não		Alfabetizado																			1	0	1	1	1	1	0	0				Sim		Cigarro									2451	758
+"	Cônjuge		Feminino	1984-10-26	27	Não		Alfabetizado																			1	0	1	1	1	1	0	0				Sim		Cigarro									2451	758
 Carauari		Marcos Antônio dos santos calixto	Filho		Masculino	2001-04-05	10	Sim		Alfabetizado		Sim	Nunca	1	1	1						0							1	0	1	1	0	0	0	0		Solteiro		Não		Nenhum	Sim	Música	1	0	0	0	0	0	2452	758
 Carauari		Maria sebastiana calixto	Filho		Feminino	2003-01-20	8	Sim		Ensino Médio Incompleto		Sim	Nunca	1	0	0	1	0	1	0	1	0							1	0	0	1	0	0	0	0				Não		Nenhum	Sim	Música	1	0	0	0	0	0	2453	758
 Carauari		Antônia raimunda dossantos calixto	Filho		Feminino	2004-11-19	7	Sim		Alfabetizado		Sim	2 vezes	1	0	0	1	0	1	0	1	0							1	0	0	1	0	0	0	0				Não		Nenhum	Sim	Música	1	0	0	0	0	0	2454	758
@@ -3724,8 +3723,7 @@ Novo Aripuanã		Lucineia Corrêa Paes	Filho		Feminino	2007-06-28	11	Sim		Ensino 
 Novo Aripuanã		Dorian Batista Correa	Filho		Masculino	2001-07-07	17	Não		Ensino Médio Completo		Às vezes	Nunca	1	0	0	1	0	1	0	1	0	Sim	Outro estado	Oportunidades	Talvez	Harmonia	Melhoria de vida	1	0	1	1	1	1	0	0		Solteiro		Não		Nenhum	Não								3754	1313
 Novo Aripuanã		Doriney Batista Correa	Filho		Masculino	2004-12-21	13	Sim		Ensino Fundamental Incompleto		Sim	Nunca	1	1	0	1	0	1	0	1	0	Sim	Outro estado	Trabalho	De jeito nenhum		Outros	1	0	1	1	0	0	0			Solteiro		Não		Nenhum	Não								3755	1313
 Novo Aripuanã		Nathan Corrêa Rodrigues	Neto		Masculino	2014-06-09	4	Sim		Pré-escolar	0	Sim	Nunca									0	Não						1			1	0	0						Não		Nenhum	Não								3756	1313
-Novo Aripuanã		"
-Valdilene Alves Paes"	Filho		Masculino	2003-04-16	15	Não		Ensino Fundamental Incompleto		Sim	3 ou mais vezes	1	0	0	1	0	1	0	1	0	Sim	Manaus	Estudo	Talvez	Outros	Melhoria de vida	1		0	1	0	0	0	0		Solteiro		Não		Os dois	Sim	Artesanato Educação Ambiental	0	1	0	1	0	0	3757	1314
+Novo Aripuanã		Valdilene Alves Paes	Filho		Masculino	2003-04-16	15	Não		Ensino Fundamental Incompleto		Sim	3 ou mais vezes	1	0	0	1	0	1	0	1	0	Sim	Manaus	Estudo	Talvez	Outros	Melhoria de vida	1		0	1	0	0	0	0		Solteiro		Não		Os dois	Sim	Artesanato Educação Ambiental	0	1	0	1	0	0	3757	1314
 Novo Aripuanã		Raimunda Alves Paes	Filho		Feminino	2004-09-23	14	Não		Ensino Fundamental Incompleto		Sim	2 vezes	0	0	0	0	0	1	0	1	0	Não						1	0	0	1	0	0	0	0		Solteiro	Não	Não		Nenhum	Sim	Artesanato Educação Ambiental	0	1	0	1	0	0	3758	1314
 Novo Aripuanã		Valdez Correia Alves	Filho		Masculino	2010-11-23	8	Não		Ensino Fundamental Incompleto		Às vezes	Nunca	1	0	0	0	0	0	0	0	0	Não						1	0	0	0	0	0	0	0				Não		Nenhum	Não								3759	1314
 Novo Aripuanã		Vanderlan Alves Paes	Filho		Masculino	2013-04-26	5	Não	Não está na idade	Não estudou				0	0	0	0	0	0	0	0								1	0	0	0	0	0	0	0				Não		Nenhum	Não								3760	1314
@@ -3757,8 +3755,7 @@ Novo Aripuanã		Felipe da Silva Passos	Filho		Masculino	2008-09-15	10	Sim		Ensin
 Novo Aripuanã		Amanda da Silva Passos	Filho		Feminino	2004-06-06	14	Sim		Ensino Fundamental Incompleto		Às vezes	1 vez	1	1	0	1	0	1	0	1	0	Não						1	0	0	1	0	0	0	0		Solteiro	Não	Não		Nenhum	Não								3786	1323
 Novo Aripuanã		Orivan Froz Sodré Neto	Neto		Masculino	2006-03-15	12	Sim		Ensino Fundamental Incompleto		Às vezes	2 vezes	1	1	1	1	0	1	0	0	0	Não						1	0	0	1	0	0	0	0		Solteiro		Não		Nenhum	Não								3787	1324
 Novo Aripuanã		Thiago Queiroz Sodré	Neto		Masculino	2012-04-14	6	Sim		Pré-escolar	0	Às vezes	Nunca	0	0	0	0	0	0	0	0	0	Não						1	0	0	0	0	0	0	0				Não		Nenhum	Não								3788	1324
-Novo Aripuanã		"
-Divan Costa Froz Pavão"	Neto		Masculino	2008-07-14	10	Não		Ensino Fundamental Incompleto		Às vezes	Nunca	1	1	1	1	0	1	0	1	0	Não						1	0	0	0	0	0	0	0		Solteiro		Não		Nenhum	Não								3789	1324
+Novo Aripuanã		Divan Costa Froz Pavão	Neto		Masculino	2008-07-14	10	Não		Ensino Fundamental Incompleto		Às vezes	Nunca	1	1	1	1	0	1	0	1	0	Não						1	0	0	0	0	0	0	0		Solteiro		Não		Nenhum	Não								3789	1324
 Novo Aripuanã		Francileia Froz Sodré Pavão	Neto		Feminino	2013-08-23	5	Sim		Pré-escolar	0	Às vezes	Nunca	0	0	0	0	0	0	0	0	0	Não						1	0	0	0	0	0	0	0				Não		Nenhum	Não								3790	1324
 Novo Aripuanã		Ismael Firmino Costa	Filho		Masculino	2001-12-02	17	Não		Ensino Fundamental Incompleto			Nunca	1	1	1	1	0	1	0	1	0	Não						1		0	1	0	0	0	0		Solteiro		Não		Bebidas alcóolicas	Não								3791	1325
 Novo Aripuanã		Paulo Vitor Firmino Pimenta	Filho		Masculino	2005-10-06	13	Sim		Ensino Fundamental Incompleto		Sim	1 vez	1	1	0	1	0	1	0	1	0	Não						1	0	0	1	0	0	0	0		Solteiro		Não		Nenhum	Não								3792	1325
